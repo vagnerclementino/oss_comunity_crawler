@@ -1,0 +1,1263 @@
+28380;2016-10-06 21:35:57;gregory.p.smith;set;status: open -> closed
+28380;2016-10-06 21:35:57;gregory.p.smith;set;versions:  - Python 3.3, Python 3.4, Python 3.5
+28380;2016-10-06 21:35:57;gregory.p.smith;set;messages:  + msg278214
+28380;2016-10-06 21:35:57;gregory.p.smith;set;resolution: fixed
+28380;2016-10-06 21:35:57;gregory.p.smith;set;stage: commit review
+28380;2016-10-06 21:32:29;python-dev;set;nosy:  + python-dev
+28380;2016-10-06 21:32:29;python-dev;set;messages:  + msg278213
+28380;2016-10-06 21:10:16;gregory.p.smith;set;assignee: gregory.p.smith
+28380;2016-10-06 21:10:16;gregory.p.smith;set;nosy:  + gregory.p.smith
+28380;2016-10-06 20:13:19;Yannick Brehon;create;-
+27386;2016-10-06 18:07:07;yselivanov;set;status: open -> closed
+27386;2016-10-06 18:07:07;yselivanov;set;messages:  + msg278200
+27386;2016-10-06 18:07:07;yselivanov;set;stage: resolved
+27386;2016-09-26 20:26:54;yselivanov;set;messages:  + msg277465
+27386;2016-09-26 20:22:25;j1m;set;messages:  + msg277463
+27386;2016-09-26 20:19:07;christian.heimes;set;messages:  + msg277460
+27386;2016-09-26 20:15:58;yselivanov;set;status: pending -> open
+27386;2016-09-26 20:15:58;yselivanov;set;messages:  + msg277458
+27386;2016-09-26 18:57:00;christian.heimes;set;status: open -> pending
+27386;2016-09-26 18:57:00;christian.heimes;set;nosy:  + christian.heimes
+27386;2016-09-26 18:57:00;christian.heimes;set;versions:  - Python 3.5
+27386;2016-09-26 18:57:00;christian.heimes;set;messages:  + msg277450
+27386;2016-09-26 18:57:00;christian.heimes;set;assignee: yselivanov
+27386;2016-09-17 16:33:19;j1m;set;resolution: fixed
+27386;2016-09-17 16:33:19;j1m;set;messages:  + msg276802
+27386;2016-09-16 13:13:05;j1m;set;messages:  + msg276711
+27386;2016-09-15 23:46:41;yselivanov;set;messages:  + msg276642
+27386;2016-07-06 15:29:31;j1m;set;type: behavior -> security
+27386;2016-06-29 18:09:07;yselivanov;set;messages:  + msg269535
+27386;2016-06-29 17:25:47;j1m;set;messages:  + msg269534
+27386;2016-06-29 17:16:31;gvanrossum;set;messages:  + msg269533
+27386;2016-06-29 17:04:47;yselivanov;set;messages:  + msg269532
+27386;2016-06-29 16:23:52;j1m;set;messages:  + msg269530
+27386;2016-06-29 16:21:29;j1m;set;files:  + echo2.py
+27386;2016-06-29 16:21:29;j1m;set;messages:  + msg269528
+27386;2016-06-29 16:10:03;yselivanov;set;messages:  + msg269527
+27386;2016-06-29 15:47:29;gvanrossum;set;messages:  + msg269526
+27386;2016-06-29 15:25:29;j1m;set;files:  + echo-no-print.py
+27386;2016-06-29 15:25:29;j1m;set;messages:  + msg269523
+27386;2016-06-29 15:21:09;mmarkk;set;messages:  + msg269520
+27386;2016-06-29 15:20:23;j1m;set;files:  - echo.py
+27386;2016-06-29 15:20:08;j1m;set;files:  + echo.py
+27386;2016-06-29 15:20:08;j1m;set;messages:  + msg269518
+27386;2016-06-29 15:17:40;mmarkk;set;messages:  + msg269517
+27386;2016-06-29 13:36:38;mmarkk;set;messages:  + msg269490
+27386;2016-06-29 13:30:35;j1m;set;messages:  + msg269486
+27386;2016-06-26 21:37:56;gvanrossum;set;messages:  + msg269313
+27386;2016-06-26 20:09:35;mmarkk;set;nosy:  + mmarkk
+27386;2016-06-26 20:09:35;mmarkk;set;messages:  + msg269308
+27386;2016-06-26 17:46:10;j1m;set;messages:  + msg269302
+27386;2016-06-25 20:56:34;j1m;create;-
+27231;2016-10-06 11:17:16;berker.peksag;set;status: open -> closed
+27231;2016-10-06 11:17:16;berker.peksag;set;type: enhancement
+27231;2016-10-06 11:17:16;berker.peksag;set;nosy:  + berker.peksag
+27231;2016-10-06 11:17:16;berker.peksag;set;messages:  + msg278185
+27231;2016-10-06 11:17:16;berker.peksag;set;resolution: out of date
+27231;2016-10-06 11:17:16;berker.peksag;set;stage: resolved
+27231;2016-06-06 14:02:31;Jelle Zijlstra;set;dependencies:  + os.fspath() should not use repr() on error
+27231;2016-06-06 14:02:31;Jelle Zijlstra;set;messages:  + msg267531
+27231;2016-06-06 06:30:07;SilentGhost;set;nosy:  + SilentGhost
+27231;2016-06-06 06:30:07;SilentGhost;set;messages:  + msg267518
+27231;2016-06-05 17:45:53;Jelle Zijlstra;set;files:  + issue27231.patch
+27231;2016-06-05 17:45:53;Jelle Zijlstra;set;keywords:  + patch
+27231;2016-06-05 17:45:53;Jelle Zijlstra;set;messages:  + msg267444
+27231;2016-06-05 16:35:39;Jelle Zijlstra;create;-
+27759;2016-10-06 18:06:39;python-dev;set;messages:  + msg278199
+27759;2016-09-15 23:33:00;yselivanov;set;status: open -> closed
+27759;2016-09-15 23:33:00;yselivanov;set;resolution: fixed
+27759;2016-09-15 23:33:00;yselivanov;set;messages:  + msg276640
+27759;2016-09-15 23:33:00;yselivanov;set;stage: resolved
+27759;2016-09-15 23:32:00;python-dev;set;nosy:  + python-dev
+27759;2016-09-15 23:32:00;python-dev;set;messages:  + msg276639
+27759;2016-08-14 08:21:20;haypo;set;files:  + selectors.patch
+27759;2016-08-14 08:21:20;haypo;set;messages:  + msg272657
+27759;2016-08-14 01:17:36;Mark.Williams;set;messages:  + msg272633
+27759;2016-08-14 01:17:14;gvanrossum;set;messages:  + msg272632
+27759;2016-08-14 01:14:45;gvanrossum;set;messages:  + msg272631
+27759;2016-08-14 01:09:25;Mark.Williams;set;messages:  + msg272630
+27759;2016-08-14 01:03:06;gvanrossum;set;messages:  + msg272629
+27759;2016-08-14 00:26:49;Mark.Williams;create;-
+24454;2016-10-06 08:43:48;irdb;set;nosy:  + irdb
+24454;2016-09-11 14:20:39;python-dev;set;messages:  + msg275798
+24454;2016-09-11 14:18:16;eric.smith;set;messages:  + msg275797
+24454;2016-09-11 14:05:13;serhiy.storchaka;set;messages:  + msg275794
+24454;2016-09-11 13:51:17;eric.smith;set;messages:  + msg275793
+24454;2016-09-11 13:50:56;python-dev;set;messages:  + msg275792
+24454;2016-09-11 13:40:33;serhiy.storchaka;set;messages:  + msg275790
+24454;2016-09-11 13:27:10;eric.smith;set;messages:  + msg275789
+24454;2016-09-11 13:19:28;serhiy.storchaka;set;messages:  + msg275788
+24454;2016-09-11 12:59:03;eric.smith;set;status: open -> closed
+24454;2016-09-11 12:59:03;eric.smith;set;resolution: fixed
+24454;2016-09-11 12:59:03;eric.smith;set;stage: patch review -> resolved
+24454;2016-09-11 12:55:49;python-dev;set;nosy:  + python-dev
+24454;2016-09-11 12:55:49;python-dev;set;messages:  + msg275785
+24454;2016-09-10 03:30:12;eric.smith;set;files:  + issue-24454-1.diff
+24454;2016-09-10 03:30:12;eric.smith;set;messages:  + msg275557
+24454;2016-06-27 06:41:43;berker.peksag;link;issue19536 superseder
+24454;2015-12-07 13:31:21;eric.smith;set;files:  + issue-24454-0.diff
+24454;2015-12-07 13:31:21;eric.smith;set;messages:  + msg256061
+24454;2015-12-07 13:31:21;eric.smith;set;assignee: eric.smith
+24454;2015-12-07 13:31:21;eric.smith;set;keywords:  + patch, easy, needs review
+24454;2015-12-07 13:31:21;eric.smith;set;stage: patch review
+24454;2015-12-06 20:54:29;eric.smith;set;messages:  + msg256030
+24454;2015-06-15 15:36:54;rhettinger;set;messages:  + msg245381
+24454;2015-06-15 14:47:43;serhiy.storchaka;set;messages:  + msg245379
+24454;2015-06-15 14:14:00;mrabarnett;set;messages:  + msg245376
+24454;2015-06-15 13:50:13;eric.smith;set;nosy:  + eric.smith
+24454;2015-06-15 13:50:13;eric.smith;set;messages:  + msg245375
+24454;2015-06-15 11:20:35;barry;set;nosy:  + barry
+24454;2015-06-15 04:39:52;ezio.melotti;set;messages:  + msg245363
+24454;2015-06-15 04:29:28;serhiy.storchaka;set;nosy:  + ezio.melotti, serhiy.storchaka, mrabarnett
+24454;2015-06-15 04:29:28;serhiy.storchaka;set;messages:  + msg245362
+24454;2015-06-15 04:29:28;serhiy.storchaka;set;components:  + Regular Expressions
+24454;2015-06-15 03:47:52;rhettinger;create;-
+27859;2016-10-06 15:46:59;ned.deily;set;status: open -> closed
+27859;2016-10-06 15:46:59;ned.deily;set;superseder: argparse set_defaults on subcommands should override top level set_defaults
+27859;2016-10-06 15:46:59;ned.deily;set;resolution: duplicate
+27859;2016-10-06 15:46:59;ned.deily;set;stage: needs patch -> resolved
+27859;2016-10-06 05:14:50;Mariatta;set;nosy:  + Mariatta
+27859;2016-10-06 05:14:50;Mariatta;set;messages:  + msg278173
+27859;2016-10-03 08:23:32;nickpapior;set;messages:  + msg277936
+27859;2016-09-04 16:36:55;paul.j3;set;files:  + issue27859test.py
+27859;2016-09-04 16:36:55;paul.j3;set;messages:  + msg274368
+27859;2016-09-04 04:54:41;paul.j3;set;nosy:  + paul.j3
+27859;2016-09-04 04:54:41;paul.j3;set;messages:  + msg274337
+27859;2016-08-25 17:30:16;ericvw;set;nosy:  + ericvw
+27859;2016-08-25 16:15:07;SilentGhost;set;stage: needs patch
+27859;2016-08-25 16:15:07;SilentGhost;set;versions:  - Python 3.2, Python 3.3, Python 3.4
+27859;2016-08-25 15:02:10;nickpapior;create;-
+28365;2016-10-06 20:31:24;terry.reedy;set;messages:  + msg278211
+28365;2016-10-06 20:24:56;terry.reedy;set;status: open -> closed
+28365;2016-10-06 20:24:56;terry.reedy;set;title: idle forgets that saved console session is not a python file after restart -> IDLE: don't offer to save text files as .py
+28365;2016-10-06 20:24:56;terry.reedy;set;superseder: Idle: saving Shell or an OutputWindow should default to .txt
+28365;2016-10-06 20:24:56;terry.reedy;set;messages:  + msg278210
+28365;2016-10-06 20:24:56;terry.reedy;set;resolution: duplicate
+28365;2016-10-06 20:24:56;terry.reedy;set;stage: resolved
+28365;2016-10-06 17:15:51;radialbeast;set;files:  + 2016-10-06 (4).png
+28365;2016-10-06 17:15:51;radialbeast;set;messages:  + msg278198
+28365;2016-10-05 18:40:45;zach.ware;set;assignee: terry.reedy
+28365;2016-10-05 18:40:45;zach.ware;set;components:  + IDLE, - Windows
+28365;2016-10-05 17:51:21;r.david.murray;set;nosy:  + r.david.murray
+28365;2016-10-05 17:51:21;r.david.murray;set;messages:  + msg278142
+28365;2016-10-05 17:51:21;r.david.murray;set;title: 3.5.2 syntax issue -> idle forgets that saved console session is not a python file after restart
+28365;2016-10-05 17:47:53;steven.daprano;set;nosy:  + terry.reedy
+28365;2016-10-05 17:25:59;paul.moore;set;messages:  + msg278141
+28365;2016-10-05 17:09:23;zach.ware;link;issue28366 superseder
+28365;2016-10-05 17:05:16;steven.daprano;set;nosy:  + steven.daprano
+28365;2016-10-05 17:05:16;steven.daprano;set;messages:  + msg278138
+28365;2016-10-05 15:47:40;tim.golden;set;messages:  + msg278135
+28365;2016-10-05 15:45:20;zach.ware;set;messages:  + msg278134
+28365;2016-10-05 15:35:57;radialbeast;create;-
+28201;2016-10-06 06:38:04;inada.naoki;set;status: open -> closed
+28201;2016-10-06 06:38:04;inada.naoki;set;resolution: fixed
+28201;2016-10-06 06:34:23;inada.naoki;set;messages:  + msg278177
+28201;2016-10-06 06:23:27;python-dev;set;nosy:  + python-dev
+28201;2016-10-06 06:23:27;python-dev;set;messages:  + msg278176
+28201;2016-10-06 06:17:03;serhiy.storchaka;set;messages:  + msg278175
+28201;2016-10-06 05:20:30;inada.naoki;set;files:  + dict-perturb-shift4.patch
+28201;2016-10-06 05:14:40;inada.naoki;set;files:  + dict-perturb-shift3.patch
+28201;2016-10-06 05:13:58;serhiy.storchaka;set;messages:  + msg278172
+28201;2016-10-06 05:04:54;tim.peters;set;messages:  + msg278171
+28201;2016-10-06 04:33:03;inada.naoki;set;messages:  + msg278170
+28201;2016-10-05 04:42:08;inada.naoki;set;files:  + dict-perturb-shift2.patch
+28201;2016-10-05 04:42:08;inada.naoki;set;messages:  + msg278101
+28201;2016-10-01 08:34:31;inada.naoki;set;type: performance
+28201;2016-10-01 08:34:31;inada.naoki;set;stage: patch review
+28201;2016-09-29 17:05:16;inada.naoki;set;assignee: inada.naoki
+28201;2016-09-29 17:05:16;inada.naoki;set;messages:  + msg277708
+28201;2016-09-21 09:22:37;inada.naoki;set;files:  + dict-perturb-shift.patch
+28201;2016-09-21 07:31:01;inada.naoki;set;messages:  + msg277105
+28201;2016-09-21 04:21:50;josh.r;set;messages:  + msg277089
+28201;2016-09-21 04:18:59;josh.r;set;nosy:  + josh.r
+28201;2016-09-21 04:18:59;josh.r;set;messages:  + msg277088
+28201;2016-09-20 17:09:27;inada.naoki;set;files:  + dict-perturb-shift.patch
+28201;2016-09-20 17:09:27;inada.naoki;set;keywords:  + patch
+28201;2016-09-19 04:52:37;rhettinger;set;messages:  + msg276943
+28201;2016-09-19 04:39:13;tim.peters;set;nosy:  + tim.peters
+28201;2016-09-19 04:39:13;tim.peters;set;messages:  + msg276937
+28201;2016-09-19 04:32:35;serhiy.storchaka;set;nosy:  + rhettinger, serhiy.storchaka
+28201;2016-09-19 04:25:13;inada.naoki;create;-
+27232;2016-10-06 11:09:54;berker.peksag;set;status: open -> closed
+27232;2016-10-06 11:09:54;berker.peksag;set;superseder: Show the address in the repr for class objects -> 
+27232;2016-10-06 11:09:54;berker.peksag;set;nosy:  + berker.peksag
+27232;2016-10-06 11:09:54;berker.peksag;set;messages:  + msg278184
+27232;2016-10-06 11:09:54;berker.peksag;set;resolution: out of date
+27232;2016-10-06 11:09:54;berker.peksag;set;type: behavior
+27232;2016-06-06 14:02:31;Jelle Zijlstra;link;issue27231 dependencies
+27232;2016-06-06 13:57:15;Jelle Zijlstra;set;status: closed -> open
+27232;2016-06-06 13:57:15;Jelle Zijlstra;set;resolution: not a bug -> (no value)
+27232;2016-06-06 13:55:27;Jelle Zijlstra;set;messages:  + msg267529
+27232;2016-06-06 06:50:15;SilentGhost;set;status: open -> closed
+27232;2016-06-06 06:50:15;SilentGhost;set;superseder: Show the address in the repr for class objects
+27232;2016-06-06 06:50:15;SilentGhost;set;nosy:  + SilentGhost
+27232;2016-06-06 06:50:15;SilentGhost;set;messages:  + msg267519
+27232;2016-06-06 06:50:15;SilentGhost;set;resolution: not a bug
+27232;2016-06-06 06:50:15;SilentGhost;set;stage: resolved
+27232;2016-06-05 17:03:14;Jelle Zijlstra;set;files:  - fspath-exception.patch
+27232;2016-06-05 17:03:04;Jelle Zijlstra;set;files:  + fspath-exception.patch
+27232;2016-06-05 16:58:05;Jelle Zijlstra;create;-
+24870;2016-10-06 07:45:27;inada.naoki;set;status: open -> closed
+24870;2016-10-06 07:45:27;inada.naoki;set;resolution: fixed
+24870;2016-01-07 13:51:51;haypo;set;messages:  + msg257689
+24870;2016-01-07 13:50:12;inada.naoki;set;messages:  + msg257688
+24870;2015-10-10 19:15:53;inada.naoki;set;messages:  + msg252738
+24870;2015-10-09 21:23:57;haypo;set;messages:  + msg252664
+24870;2015-10-09 21:15:08;haypo;set;messages:  + msg252662
+24870;2015-10-02 14:45:19;haypo;set;messages:  + msg252118
+24870;2015-10-01 21:24:45;haypo;set;messages:  + msg252059
+24870;2015-09-24 14:26:49;haypo;set;messages:  + msg251529
+24870;2015-09-24 14:18:10;haypo;set;title: Optimize coding with surrogateescape and surrogatepass error handlers -> Optimize ascii and latin1 decoder with surrogateescape and surrogatepass error handlers
+24870;2015-09-24 13:11:05;serhiy.storchaka;set;messages:  + msg251521
+24870;2015-09-24 12:51:30;haypo;set;messages:  + msg251517
+24870;2015-09-22 09:37:17;haypo;set;files:  + bench_utf8.py
+24870;2015-09-22 09:37:01;haypo;set;files:  + utf8-3.patch
+24870;2015-09-22 09:37:01;haypo;set;messages:  + msg251299
+24870;2015-09-22 09:06:56;haypo;set;files:  + utf8-2.patch
+24870;2015-09-22 09:06:56;haypo;set;messages:  + msg251296
+24870;2015-09-22 08:50:15;python-dev;set;messages:  + msg251294
+24870;2015-09-21 23:06:41;haypo;set;files:  + utf8.patch
+24870;2015-09-21 23:06:41;haypo;set;messages:  + msg251277
+24870;2015-09-21 23:00:08;python-dev;set;messages:  + msg251276
+24870;2015-09-21 22:13:03;haypo;set;files:  + bench.py
+24870;2015-09-21 22:13:03;haypo;set;messages:  + msg251270
+24870;2015-09-21 22:11:20;python-dev;set;nosy:  + python-dev
+24870;2015-09-21 22:11:20;python-dev;set;messages:  + msg251269
+24870;2015-09-10 19:18:44;haypo;set;files:  + faster-decode-ascii-surrogateescape.patch
+24870;2015-09-10 19:18:44;haypo;set;messages:  + msg250409
+24870;2015-08-19 12:55:09;r.david.murray;set;messages:  + msg248832
+24870;2015-08-19 08:12:26;inada.naoki;set;messages:  + msg248820
+24870;2015-08-17 06:42:46;inada.naoki;set;files:  + faster-decode-ascii-surrogateescape.patch
+24870;2015-08-17 06:42:46;inada.naoki;set;messages:  + msg248717
+24870;2015-08-15 21:26:49;haypo;set;messages:  + msg248660
+24870;2015-08-15 21:26:49;haypo;set;title: surrogateescape is too slow -> Optimize coding with surrogateescape and surrogatepass error handlers
+24870;2015-08-15 21:24:55;haypo;set;messages:  + msg248658
+24870;2015-08-15 21:24:55;haypo;set;title: Optimize coding with surrogateescape and surrogatepass error handlers -> surrogateescape is too slow
+24870;2015-08-15 13:06:59;serhiy.storchaka;set;files:  + faster_surrogates_hadling.patch
+24870;2015-08-15 13:06:59;serhiy.storchaka;set;keywords:  + patch
+24870;2015-08-15 13:06:59;serhiy.storchaka;set;title: surrogateescape is too slow -> Optimize coding with surrogateescape and surrogatepass error handlers
+24870;2015-08-15 12:56:05;serhiy.storchaka;set;versions:  - Python 3.4, Python 3.5
+24870;2015-08-15 12:56:05;serhiy.storchaka;set;nosy:  + serhiy.storchaka
+24870;2015-08-15 12:56:05;serhiy.storchaka;set;messages:  + msg248638
+24870;2015-08-15 12:56:05;serhiy.storchaka;set;assignee: serhiy.storchaka
+24870;2015-08-15 12:09:23;r.david.murray;set;nosy:  + r.david.murray
+24870;2015-08-15 12:09:23;r.david.murray;set;messages:  + msg248636
+24870;2015-08-15 12:09:23;r.david.murray;set;versions:  - Python 3.2, Python 3.3
+24870;2015-08-15 03:13:43;inada.naoki;set;messages:  + msg248632
+24870;2015-08-15 03:08:44;inada.naoki;create;-
+27286;2016-10-05 23:29:06;lukasz.langa;set;nosy:  + lukasz.langa
+27286;2016-10-05 23:29:06;lukasz.langa;set;messages:  + msg278158
+27286;2016-08-10 19:46:19;serhiy.storchaka;set;nosy:  + larry
+27286;2016-08-10 19:46:19;serhiy.storchaka;set;messages:  + msg272368
+27286;2016-08-10 19:10:39;jpe;set;nosy:  + jpe
+27286;2016-08-10 19:10:39;jpe;set;messages:  + msg272360
+27286;2016-06-12 07:41:31;serhiy.storchaka;set;status: open -> closed
+27286;2016-06-12 07:41:31;serhiy.storchaka;set;assignee: serhiy.storchaka
+27286;2016-06-12 07:41:31;serhiy.storchaka;set;resolution: fixed
+27286;2016-06-12 07:41:31;serhiy.storchaka;set;stage: patch review -> resolved
+27286;2016-06-12 06:49:48;python-dev;set;nosy:  + python-dev
+27286;2016-06-12 06:49:48;python-dev;set;messages:  + msg268336
+27286;2016-06-10 16:59:49;serhiy.storchaka;set;files:  + BUILD_MAP_UNPACK_WITH_CALL-function_pos2.patch
+27286;2016-06-10 16:59:49;serhiy.storchaka;set;messages:  + msg268128
+27286;2016-06-10 15:46:17;rhettinger;set;nosy:  + rhettinger
+27286;2016-06-10 15:46:17;rhettinger;set;messages:  + msg268123
+27286;2016-06-10 13:15:43;serhiy.storchaka;set;files:  + BUILD_MAP_UNPACK_WITH_CALL-function_pos.patch
+27286;2016-06-10 13:15:43;serhiy.storchaka;set;nosy:  + serhiy.storchaka
+27286;2016-06-10 13:15:43;serhiy.storchaka;set;messages:  + msg268121
+27286;2016-06-10 13:15:43;serhiy.storchaka;set;keywords:  + patch
+27286;2016-06-10 13:15:43;serhiy.storchaka;set;stage: patch review
+27286;2016-06-10 09:37:11;martin.panter;create;-
+27392;2016-10-06 18:10:40;yselivanov;set;status: open -> closed
+27392;2016-10-06 18:10:40;yselivanov;set;resolution: fixed
+27392;2016-10-06 18:10:40;yselivanov;set;messages:  + msg278201
+27392;2016-10-06 18:10:40;yselivanov;set;stage: resolved
+27392;2016-08-09 23:43:28;yselivanov;set;messages:  + msg272280
+27392;2016-08-09 10:59:20;j1m;set;messages:  + msg272233
+27392;2016-08-09 10:56:38;j1m;set;messages:  + msg272232
+27392;2016-08-09 01:44:27;gvanrossum;set;messages:  + msg272207
+27392;2016-08-09 01:42:29;yselivanov;set;messages:  + msg272206
+27392;2016-08-09 01:40:52;gvanrossum;set;messages:  + msg272205
+27392;2016-08-09 01:38:54;yselivanov;set;messages:  + msg272204
+27392;2016-08-09 01:25:04;yselivanov;set;messages:  + msg272203
+27392;2016-08-08 16:41:59;yselivanov;set;messages:  + msg272179
+27392;2016-08-08 16:36:05;j1m;set;messages:  + msg272178
+27392;2016-08-08 16:33:17;gvanrossum;set;messages:  + msg272177
+27392;2016-08-07 18:32:16;j1m;set;messages:  + msg272129
+27392;2016-07-19 23:00:05;yselivanov;set;assignee: yselivanov
+27392;2016-07-19 23:00:05;yselivanov;set;messages:  + msg270850
+27392;2016-07-18 19:09:10;j1m;set;messages:  + msg270785
+27392;2016-07-14 14:12:14;j1m;set;files:  + connect_accepted_socket-doc.patch
+27392;2016-07-14 14:12:14;j1m;set;keywords:  + patch
+27392;2016-07-14 14:12:14;j1m;set;messages:  + msg270411
+27392;2016-07-12 22:25:07;yselivanov;set;messages:  + msg270273
+27392;2016-07-12 22:24:33;python-dev;set;nosy:  + python-dev
+27392;2016-07-12 22:24:33;python-dev;set;messages:  + msg270272
+27392;2016-07-11 15:03:36;gvanrossum;set;messages:  + msg270185
+27392;2016-07-11 14:29:22;yselivanov;set;messages:  + msg270182
+27392;2016-07-10 20:40:40;gvanrossum;set;messages:  + msg270133
+27392;2016-07-09 19:00:52;gvanrossum;set;messages:  + msg270062
+27392;2016-07-09 18:45:40;j1m;set;messages:  + msg270061
+27392;2016-07-09 18:40:43;yselivanov;set;messages:  + msg270060
+27392;2016-07-09 18:40:28;j1m;set;messages:  + msg270059
+27392;2016-07-09 16:19:34;gvanrossum;set;messages:  + msg270052
+27392;2016-07-09 15:17:47;j1m;set;messages:  + msg270046
+27392;2016-06-29 19:16:59;j1m;set;messages:  + msg269547
+27392;2016-06-29 19:14:24;yselivanov;set;messages:  + msg269546
+27392;2016-06-29 19:09:11;gvanrossum;set;messages:  + msg269545
+27392;2016-06-29 18:28:07;j1m;set;messages:  + msg269540
+27392;2016-06-29 18:15:43;gvanrossum;set;messages:  + msg269536
+27392;2016-06-29 17:49:56;gvanrossum;set;messages:  - msg269529
+27392;2016-06-29 17:49:42;gvanrossum;set;messages:  - msg269525
+27392;2016-06-29 16:22:51;j1m;set;messages:  + msg269529
+27392;2016-06-29 15:40:10;j1m;set;messages:  + msg269525
+27392;2016-06-29 15:31:18;j1m;set;messages:  + msg269524
+27392;2016-06-29 15:20:32;yselivanov;set;messages:  + msg269519
+27392;2016-06-29 15:12:10;j1m;set;messages:  + msg269516
+27392;2016-06-29 15:10:02;j1m;set;messages:  + msg269515
+27392;2016-06-29 15:05:10;yselivanov;set;messages:  + msg269513
+27392;2016-06-29 14:01:28;j1m;set;messages:  + msg269494
+27392;2016-06-29 13:56:57;j1m;set;messages:  + msg269493
+27392;2016-06-29 13:40:10;j1m;set;messages:  + msg269492
+27392;2016-06-26 21:41:12;gvanrossum;set;messages:  + msg269315
+27392;2016-06-26 16:41:38;yselivanov;set;messages:  + msg269297
+27392;2016-06-26 16:05:16;j1m;create;-
+28366;2016-10-05 17:09:23;zach.ware;set;status: open -> closed
+28366;2016-10-05 17:09:23;zach.ware;set;superseder: IDLE: don't offer to save text files as .py
+28366;2016-10-05 17:09:23;zach.ware;set;messages:  + msg278139
+28366;2016-10-05 17:09:23;zach.ware;set;resolution: duplicate
+28366;2016-10-05 17:09:23;zach.ware;set;stage: resolved
+28366;2016-10-05 17:05:51;steven.daprano;set;nosy:  + paul.moore, tim.golden, zach.ware, steve.dower
+28366;2016-10-05 17:05:51;steven.daprano;set;components:  + Windows
+28366;2016-10-05 17:05:51;steven.daprano;set;versions:  + Python 3.5
+28366;2016-10-05 17:04:09;steven.daprano;set;nosy:  + steven.daprano
+28366;2016-10-05 17:04:09;steven.daprano;set;messages:  + msg278137
+28366;2016-10-05 15:56:10;radialbeast;create;-
+28329;2016-10-05 07:03:17;jaysinh.shukla;set;messages:  + msg278109
+28329;2016-10-05 03:32:16;rhettinger;set;status: open -> closed
+28329;2016-10-05 03:32:16;rhettinger;set;resolution: rejected
+28329;2016-10-05 03:32:16;rhettinger;set;messages:  + msg278099
+28329;2016-10-04 11:38:23;jaysinh.shukla;set;files:  + doc_patch_version_default.diff
+28329;2016-10-04 11:38:23;jaysinh.shukla;set;nosy:  + jaysinh.shukla
+28329;2016-10-04 11:38:23;jaysinh.shukla;set;messages:  + msg278030
+28329;2016-10-03 15:26:40;rhettinger;set;nosy:  + rhettinger
+28329;2016-10-03 15:26:40;rhettinger;set;messages:  + msg277958
+28329;2016-10-03 12:47:37;Satoru Logic;set;files:  + overridable_time_delay_v2.patch
+28329;2016-10-01 13:05:23;Satoru Logic;create;-
+21626;2016-10-05 10:35:39;berker.peksag;set;status: open -> closed
+21626;2016-10-05 10:35:39;berker.peksag;set;nosy:  + serhiy.storchaka, berker.peksag
+21626;2016-10-05 10:35:39;berker.peksag;set;messages:  + msg278117
+21626;2016-10-05 10:35:39;berker.peksag;set;resolution: rejected
+21626;2016-10-05 10:35:39;berker.peksag;set;stage: resolved
+21626;2014-06-01 14:23:34;serhiy.storchaka;set;nosy:  + pitrou, alexandre.vassalotti
+21626;2014-06-01 14:10:35;barcc;create;-
+28348;2016-10-04 17:44:54;berker.peksag;set;status: open -> closed
+28348;2016-10-04 17:44:54;berker.peksag;set;type: behavior
+28348;2016-10-04 17:44:54;berker.peksag;set;versions:  + Python 3.6, Python 3.7
+28348;2016-10-04 17:44:54;berker.peksag;set;nosy:  + berker.peksag
+28348;2016-10-04 17:44:54;berker.peksag;set;messages:  + msg278069
+28348;2016-10-04 17:44:54;berker.peksag;set;resolution: fixed
+28348;2016-10-04 17:44:54;berker.peksag;set;stage: resolved
+28348;2016-10-04 17:44:20;python-dev;set;nosy:  + python-dev
+28348;2016-10-04 17:44:20;python-dev;set;messages:  + msg278068
+28348;2016-10-04 03:23:35;Mariatta;set;files:  + issue28348.patch
+28348;2016-10-04 03:23:35;Mariatta;set;keywords:  + patch
+28348;2016-10-04 03:23:35;Mariatta;set;messages:  + msg278006
+28348;2016-10-03 16:34:18;Mariatta;set;nosy:  + Mariatta
+28348;2016-10-03 16:34:18;Mariatta;set;messages:  + msg277966
+28348;2016-10-03 15:59:10;RSChiang;create;-
+28342;2016-10-04 19:06:27;ned.deily;set;status: open -> closed
+28342;2016-10-04 19:06:27;ned.deily;set;nosy:  + ronaldoussoren
+28342;2016-10-04 19:06:27;ned.deily;set;messages:  + msg278080
+28342;2016-10-04 19:06:27;ned.deily;set;components:  + Macintosh
+28342;2016-10-04 19:06:27;ned.deily;set;stage: resolved
+28342;2016-10-03 21:37:33;thehesiod;set;status: pending -> open
+28342;2016-10-03 21:37:33;thehesiod;set;messages:  + msg278001
+28342;2016-10-03 17:56:32;ned.deily;set;status: open -> pending
+28342;2016-10-03 17:56:32;ned.deily;set;messages:  + msg277970
+28342;2016-10-03 17:34:39;thehesiod;set;status: pending -> open
+28342;2016-10-03 17:34:39;thehesiod;set;messages:  + msg277968
+28342;2016-10-03 02:33:19;ned.deily;set;status: open -> pending
+28342;2016-10-03 02:33:05;ned.deily;set;nosy:  + ned.deily
+28342;2016-10-03 02:33:05;ned.deily;set;messages:  + msg277922
+28342;2016-10-03 02:33:05;ned.deily;set;resolution: duplicate
+28342;2016-10-03 02:33:05;ned.deily;set;superseder: exception error in _scproxy.so when called after fork
+28342;2016-10-03 02:22:59;thehesiod;set;messages:  + msg277921
+28342;2016-10-02 23:48:54;thehesiod;create;-
+28321;2016-10-04 17:10:19;serhiy.storchaka;set;status: open -> closed
+28321;2016-10-04 17:10:19;serhiy.storchaka;set;resolution: fixed
+28321;2016-10-04 17:10:19;serhiy.storchaka;set;stage: patch review -> commit review
+28321;2016-10-04 17:09:41;python-dev;set;nosy:  + python-dev
+28321;2016-10-04 17:09:41;python-dev;set;messages:  + msg278062
+28321;2016-10-04 17:00:53;serhiy.storchaka;set;assignee: serhiy.storchaka
+28321;2016-10-04 17:00:53;serhiy.storchaka;set;versions:  - Python 2.7
+28321;2016-10-01 06:33:15;serhiy.storchaka;set;files:  + plistlib-astral-characters.patch
+28321;2016-10-01 06:33:15;serhiy.storchaka;set;versions:  + Python 2.7, Python 3.6, Python 3.7
+28321;2016-10-01 06:33:15;serhiy.storchaka;set;keywords:  + patch
+28321;2016-10-01 06:33:15;serhiy.storchaka;set;nosy:  + serhiy.storchaka, ronaldoussoren
+28321;2016-10-01 06:33:15;serhiy.storchaka;set;messages:  + msg277800
+28321;2016-10-01 06:33:15;serhiy.storchaka;set;stage: patch review
+28321;2016-09-30 23:01:24;kuglee;set;messages:  + msg277781
+28321;2016-09-30 22:58:04;kuglee;set;files:  + output.plist
+28321;2016-09-30 22:57:38;kuglee;create;-
+28229;2016-10-04 17:39:50;berker.peksag;set;status: open -> closed
+28229;2016-10-04 17:39:50;berker.peksag;set;resolution: fixed
+28229;2016-10-04 17:39:50;berker.peksag;set;stage: commit review -> resolved
+28229;2016-10-04 17:39:32;python-dev;set;nosy:  + python-dev
+28229;2016-10-04 17:39:32;python-dev;set;messages:  + msg278067
+28229;2016-10-04 07:58:22;serhiy.storchaka;set;nosy:  + serhiy.storchaka
+28229;2016-10-04 07:58:22;serhiy.storchaka;set;messages:  + msg278019
+28229;2016-10-04 07:58:22;serhiy.storchaka;set;assignee: berker.peksag
+28229;2016-10-04 07:58:22;serhiy.storchaka;set;stage: patch review -> commit review
+28229;2016-10-04 06:44:43;berker.peksag;set;files:  + issue28229_v3.diff
+28229;2016-10-04 06:44:43;berker.peksag;set;messages:  + msg278014
+28229;2016-10-02 17:24:56;berker.peksag;set;files:  + issue28229_v2.diff
+28229;2016-10-02 17:24:56;berker.peksag;set;nosy:  + berker.peksag
+28229;2016-10-02 17:24:56;berker.peksag;set;messages:  + msg277904
+28229;2016-10-02 17:24:56;berker.peksag;set;components:  + Library (Lib)
+28229;2016-09-23 21:34:13;ned.deily;set;nosy:  + ned.deily
+28229;2016-09-23 21:34:13;ned.deily;set;versions:  + Python 3.7
+28229;2016-09-21 07:30:51;ethan.furman;create;-
+28350;2016-10-04 15:27:43;serhiy.storchaka;set;status: open -> closed
+28350;2016-10-04 15:27:43;serhiy.storchaka;set;resolution: fixed
+28350;2016-10-04 15:27:43;serhiy.storchaka;set;messages:  + msg278049
+28350;2016-10-04 15:27:43;serhiy.storchaka;set;stage: patch review -> resolved
+28350;2016-10-04 15:25:19;python-dev;set;nosy:  + python-dev
+28350;2016-10-04 15:25:19;python-dev;set;messages:  + msg278047
+28350;2016-10-04 14:35:29;haypo;set;messages:  + msg278043
+28350;2016-10-04 14:31:53;serhiy.storchaka;set;assignee: serhiy.storchaka
+28350;2016-10-04 14:31:53;serhiy.storchaka;set;messages:  + msg278042
+28350;2016-10-03 19:37:14;haypo;set;nosy:  + haypo
+28350;2016-10-03 19:37:14;haypo;set;messages:  + msg277997
+28350;2016-10-03 19:23:36;serhiy.storchaka;create;-
+13756;2016-10-04 16:17:54;zach.ware;set;messages:  + msg278057
+13756;2016-10-04 14:59:35;erik.bray;set;messages:  + msg278046
+13756;2016-10-04 13:56:16;zach.ware;set;messages:  + msg278039
+13756;2016-10-04 13:56:16;zach.ware;set;versions:  + Python 3.7, - Python 3.2, Python 3.3, Python 3.4
+13756;2016-10-04 11:36:05;erik.bray;set;messages:  + msg278029
+13756;2016-10-01 21:26:41;zach.ware;set;status: open -> closed
+13756;2016-10-01 21:26:41;zach.ware;set;nosy:  + zach.ware
+13756;2016-10-01 21:26:41;zach.ware;set;messages:  + msg277833
+13756;2016-10-01 21:26:41;zach.ware;set;resolution: fixed
+13756;2016-10-01 21:26:41;zach.ware;set;stage: patch review -> resolved
+13756;2016-10-01 21:15:22;python-dev;set;nosy:  + python-dev
+13756;2016-10-01 21:15:22;python-dev;set;messages:  + msg277832
+13756;2016-08-23 12:10:39;erik.bray;set;nosy:  + erik.bray
+13756;2016-08-23 12:10:39;erik.bray;set;messages:  + msg273435
+13756;2015-04-18 07:01:22;masamoto;set;nosy:  + masamoto
+13756;2013-02-04 15:30:46;eric.araujo;set;keywords:  + needs review
+13756;2013-02-04 15:30:46;eric.araujo;set;stage: patch review
+13756;2013-02-04 15:30:46;eric.araujo;set;messages:  + msg181334
+13756;2013-02-04 15:30:46;eric.araujo;set;versions:  + Python 3.3, Python 3.4
+13756;2013-02-02 15:45:23;rpetrov;set;files:  + 0001-CYGWIN-issue13756-Python-make-fail-on-cygwin.patch
+13756;2013-02-02 15:45:23;rpetrov;set;messages:  + msg181170
+13756;2013-02-01 18:53:00;jlt63;set;messages:  + msg181092
+13756;2013-02-01 05:09:46;ezio.melotti;set;nosy:  + ezio.melotti
+13756;2013-02-01 05:09:46;ezio.melotti;set;messages:  + msg181069
+13756;2012-06-11 19:56:09;rpetrov;set;nosy:  + rpetrov
+13756;2012-06-11 19:56:09;rpetrov;set;messages:  + msg162641
+13756;2012-06-11 14:22:09;jlt63;set;files:  + 3.2.3-libpython-abi.patch
+13756;2012-06-11 14:22:09;jlt63;set;nosy:  + jlt63, yselkowitz
+13756;2012-06-11 14:22:09;jlt63;set;messages:  + msg162619
+13756;2012-06-11 14:22:09;jlt63;set;keywords:  + patch
+13756;2012-04-24 14:49:40;Lohoris;set;nosy:  + Lohoris
+13756;2012-04-24 14:49:40;Lohoris;set;type: compile error
+13756;2012-02-27 16:54:21;loewis;set;messages:  + msg154490
+13756;2012-02-27 11:58:05;eric.araujo;set;files:  + patch
+13756;2012-02-27 11:58:05;eric.araujo;set;messages:  + msg154466
+13756;2012-02-02 08:32:54;Luis.Marsano;set;files:  + patch.xz
+13756;2012-02-02 08:32:54;Luis.Marsano;set;messages:  + msg152455
+13756;2012-01-16 10:12:01;Luis.Marsano;set;nosy:  + Luis.Marsano
+13756;2012-01-16 10:12:01;Luis.Marsano;set;messages:  + msg151346
+13756;2012-01-16 10:12:01;Luis.Marsano;set;components:  + Build, - Installation
+13756;2012-01-14 03:46:01;eric.araujo;set;nosy:  + loewis, eric.araujo, mhammond
+13756;2012-01-14 03:46:01;eric.araujo;set;messages:  + msg151217
+13756;2012-01-10 12:44:18;holgerd00d;create;-
+28335;2016-10-03 19:00:58;cool-RR;set;messages:  + msg277991
+28335;2016-10-03 18:51:04;python-dev;set;messages:  + msg277989
+28335;2016-10-03 18:46:16;python-dev;set;status: open -> closed
+28335;2016-10-03 18:46:16;python-dev;set;nosy:  + python-dev
+28335;2016-10-03 18:46:16;python-dev;set;messages:  + msg277987
+28335;2016-10-03 18:46:16;python-dev;set;resolution: fixed
+28335;2016-10-03 18:46:16;python-dev;set;stage: resolved
+28335;2016-10-03 18:23:34;vinay.sajip;set;assignee: vinay.sajip
+28335;2016-10-03 18:23:34;vinay.sajip;set;messages:  + msg277979
+28335;2016-10-02 15:59:33;cool-RR;set;messages:  + msg277899
+28335;2016-10-02 15:48:07;sreyas;set;files:  + raisefrom.patch
+28335;2016-10-02 15:48:07;sreyas;set;keywords:  + patch
+28335;2016-10-02 13:25:45;cool-RR;set;messages:  + msg277890
+28335;2016-10-02 13:19:01;vinay.sajip;set;messages:  + msg277889
+28335;2016-10-01 20:58:49;Mariatta;set;nosy:  + Mariatta
+28335;2016-10-01 18:27:33;cool-RR;set;messages:  + msg277828
+28335;2016-10-01 18:20:17;cool-RR;create;-
+21124;2016-10-04 06:26:33;zach.ware;set;messages:  + msg278013
+21124;2016-10-04 06:25:05;python-dev;set;status: open -> closed
+21124;2016-10-04 06:25:05;python-dev;set;resolution: fixed
+21124;2016-10-04 06:25:05;python-dev;set;messages:  + msg278012
+21124;2016-10-04 06:25:05;python-dev;set;stage: resolved
+21124;2016-10-03 15:29:43;masamoto;set;messages:  + msg277959
+21124;2016-10-02 13:49:21;zach.ware;set;messages:  + msg277891
+21124;2016-10-02 11:08:58;masamoto;set;files:  + PyType_Ready-unpackiter_type.patch
+21124;2016-10-02 11:08:58;masamoto;set;nosy:  + masamoto
+21124;2016-10-02 11:08:58;masamoto;set;messages:  + msg277887
+21124;2016-10-02 09:51:26;serhiy.storchaka;set;status: closed -> open
+21124;2016-10-02 09:51:26;serhiy.storchaka;set;nosy:  + serhiy.storchaka
+21124;2016-10-02 09:51:26;serhiy.storchaka;set;messages:  + msg277874
+21124;2016-10-02 09:51:26;serhiy.storchaka;set;resolution: fixed -> (no value)
+21124;2016-10-02 09:51:26;serhiy.storchaka;set;stage: resolved -> (no value)
+21124;2016-10-02 05:38:25;zach.ware;set;versions:  + Python 3.7, - Python 3.4
+21124;2016-10-02 05:38:25;zach.ware;set;nosy:  + zach.ware
+21124;2016-10-02 05:38:25;zach.ware;set;messages:  + msg277853
+21124;2016-10-02 05:38:25;zach.ware;set;type: compile error
+21124;2016-10-02 05:38:25;zach.ware;set;stage: resolved
+21124;2016-10-02 05:34:12;python-dev;set;nosy:  + python-dev
+21124;2016-10-02 05:34:12;python-dev;set;messages:  + msg277852
+21124;2014-04-30 07:15:17;dellair.jie;set;status: open -> closed
+21124;2014-04-30 07:15:17;dellair.jie;set;resolution: fixed
+21124;2014-04-30 07:15:17;dellair.jie;set;messages:  + msg217577
+21124;2014-04-29 23:59:23;masamoto;set;nosy:  - masamoto
+21124;2014-04-29 23:58:39;masamoto;set;nosy:  dellair.jie, masamoto
+21124;2014-04-29 23:58:39;masamoto;set;messages:  + msg217562
+21124;2014-04-29 13:17:28;dellair.jie;set;messages:  + msg217517
+21124;2014-04-03 19:11:39;ned.deily;set;nosy:  - ned.deily
+21124;2014-04-03 19:11:39;ned.deily;set;superseder: Add Mingw recognition to pyport.h to allow building extensions -> 
+21124;2014-04-03 19:11:39;ned.deily;set;resolution: duplicate -> (no value)
+21124;2014-04-03 19:11:39;ned.deily;set;stage: resolved -> (no value)
+21124;2014-04-02 14:11:43;dellair.jie;set;messages:  + msg215385
+21124;2014-04-02 12:17:12;masamoto;set;files:  + 3.4-struct.patch
+21124;2014-04-02 12:17:12;masamoto;set;nosy:  + masamoto
+21124;2014-04-02 12:17:12;masamoto;set;messages:  + msg215379
+21124;2014-04-02 12:17:12;masamoto;set;keywords:  + patch
+21124;2014-04-02 06:51:24;dellair.jie;set;status: pending -> open
+21124;2014-04-02 06:51:24;dellair.jie;set;messages:  + msg215359
+21124;2014-04-02 01:23:30;ned.deily;set;status: open -> pending
+21124;2014-04-02 01:23:30;ned.deily;set;superseder: Add Mingw recognition to pyport.h to allow building extensions
+21124;2014-04-02 01:23:30;ned.deily;set;components:  + Build
+21124;2014-04-02 01:23:30;ned.deily;set;title: Compilation error on _struct module on Python 3.4 -> _struct module compilation error under Cygwin 1.7.17 on Python 3.4
+21124;2014-04-02 01:23:30;ned.deily;set;nosy:  + ned.deily
+21124;2014-04-02 01:23:30;ned.deily;set;messages:  + msg215349
+21124;2014-04-02 01:23:30;ned.deily;set;resolution: duplicate
+21124;2014-04-02 01:23:30;ned.deily;set;stage: resolved
+21124;2014-04-01 14:53:31;dellair.jie;set;files:  + Build.log
+21124;2014-04-01 14:53:31;dellair.jie;set;messages:  + msg215322
+21124;2014-04-01 14:52:31;dellair.jie;create;-
+21085;2016-10-04 13:51:24;zach.ware;set;messages:  + msg278037
+21085;2016-10-04 11:09:46;erik.bray;set;messages:  + msg278027
+21085;2016-10-01 06:07:04;python-dev;set;messages:  + msg277798
+21085;2016-10-01 05:56:18;zach.ware;set;title: compile error Python3.3 on Cygwin -> Cygwin does not provide siginfo_t.si_band
+21085;2016-10-01 05:52:54;zach.ware;set;status: open -> closed
+21085;2016-10-01 05:52:54;zach.ware;set;assignee: erik.bray -> zach.ware
+21085;2016-10-01 05:52:54;zach.ware;set;versions:  + Python 3.7, - Python 3.5, Python 3.6
+21085;2016-10-01 05:52:54;zach.ware;set;nosy:  + zach.ware
+21085;2016-10-01 05:52:54;zach.ware;set;messages:  + msg277797
+21085;2016-10-01 05:52:54;zach.ware;set;resolution: fixed
+21085;2016-10-01 05:52:54;zach.ware;set;stage: commit review -> resolved
+21085;2016-10-01 05:48:10;python-dev;set;nosy:  + python-dev
+21085;2016-10-01 05:48:10;python-dev;set;messages:  + msg277796
+21085;2016-09-28 19:04:52;r.david.murray;link;issue28305 superseder
+21085;2016-08-30 13:15:51;r.david.murray;set;messages:  + msg273915
+21085;2016-08-30 13:15:51;r.david.murray;set;versions:  + Python 3.6, - Python 3.3, Python 3.4
+21085;2016-08-30 10:09:03;erik.bray;set;messages:  + msg273907
+21085;2016-08-30 10:09:03;erik.bray;set;stage: patch review -> commit review
+21085;2016-08-30 10:04:04;erik.bray;set;files:  + 3.3-issue21085-struct_siginfo-2.patch
+21085;2016-08-30 10:03:54;erik.bray;set;files:  + 3.4-issue21085-struct_siginfo-2.patch
+21085;2016-08-30 10:03:42;erik.bray;set;files:  + tip-issue21085-struct_siginfo-2.patch
+21085;2016-08-24 08:54:50;erik.bray;set;assignee: erik.bray
+21085;2016-08-24 08:54:37;erik.bray;set;messages:  + msg273542
+21085;2016-08-24 08:54:37;erik.bray;set;stage: patch review
+21085;2016-08-24 08:08:44;masamoto;set;files:  + 3.5-issue21085-struct_siginfo-2.patch
+21085;2016-08-24 08:08:44;masamoto;set;messages:  + msg273537
+21085;2016-08-23 16:49:35;masamoto;set;files:  + 3.5-issue21085-struct_siginfo.patch
+21085;2016-08-23 16:49:35;masamoto;set;messages:  + msg273488
+21085;2016-08-23 13:42:13;r.david.murray;set;messages:  + msg273445
+21085;2016-08-23 09:46:22;erik.bray;set;nosy:  + erik.bray
+21085;2016-08-23 09:46:22;erik.bray;set;messages:  + msg273429
+21085;2015-03-31 04:23:48;masamoto;set;files:  + 3.4-issue21085-struct_siginfo.patch
+21085;2015-03-31 04:23:48;masamoto;set;messages:  + msg239663
+21085;2015-03-26 19:42:14;haypo;set;messages:  + msg239350
+21085;2015-03-26 19:12:45;masamoto;set;messages:  + msg239349
+21085;2015-03-26 17:23:06;haypo;set;messages:  + msg239345
+21085;2015-03-26 15:48:10;masamoto;set;files:  + 3.4-issue21085-cygwin-struct_siginfo.patch
+21085;2015-03-26 15:48:10;masamoto;set;versions:  + Python 3.5
+21085;2015-03-26 15:48:10;masamoto;set;nosy:  + masamoto
+21085;2015-03-26 15:48:10;masamoto;set;messages:  + msg239343
+21085;2015-03-26 15:48:10;masamoto;set;type: compile error
+21085;2014-04-29 13:37:24;dellair.jie;set;messages:  + msg217518
+21085;2014-04-01 14:23:56;dellair.jie;set;messages:  + msg215319
+21085;2014-04-01 12:28:05;haypo;set;files:  + cygwin_si_band.patch
+21085;2014-04-01 12:28:05;haypo;set;keywords:  + patch
+21085;2014-04-01 12:28:05;haypo;set;messages:  + msg215309
+21085;2014-04-01 12:13:34;dellair.jie;set;messages:  + msg215308
+21085;2014-04-01 09:08:47;haypo;set;messages:  + msg215303
+21085;2014-04-01 09:00:01;dellair.jie;set;messages:  + msg215302
+21085;2014-03-31 20:53:54;rpetrov;set;messages:  + msg215267
+21085;2014-03-31 20:45:32;rpetrov;set;nosy:  + rpetrov
+21085;2014-03-31 20:45:32;rpetrov;set;messages:  + msg215266
+21085;2014-03-31 17:58:52;dellair.jie;set;messages:  + msg215257
+21085;2014-03-31 17:58:52;dellair.jie;set;versions:  + Python 3.4
+21085;2014-03-31 17:20:21;loewis;set;messages:  + msg215252
+21085;2014-03-31 16:13:28;haypo;set;messages:  + msg215249
+21085;2014-03-31 16:11:27;haypo;set;messages:  + msg215248
+21085;2014-03-31 15:57:25;dellair.jie;set;files:  + signalmodule.output.txt
+21085;2014-03-31 15:57:25;dellair.jie;set;messages:  + msg215247
+21085;2014-03-31 15:16:21;loewis;set;messages:  + msg215243
+21085;2014-03-31 12:27:23;dellair.jie;set;messages:  + msg215232
+21085;2014-03-31 07:49:05;dellair.jie;set;messages:  + msg215221
+21085;2014-03-30 14:45:30;loewis;set;nosy:  + loewis
+21085;2014-03-30 14:45:30;loewis;set;messages:  + msg215183
+21085;2014-03-28 15:55:46;dellair.jie;set;messages:  + msg215055
+21085;2014-03-28 15:31:19;r.david.murray;set;nosy:  + r.david.murray
+21085;2014-03-28 15:31:19;r.david.murray;set;messages:  + msg215052
+21085;2014-03-28 15:27:57;haypo;set;nosy:  + haypo
+21085;2014-03-28 15:27:57;haypo;set;messages:  + msg215051
+21085;2014-03-28 15:17:09;dellair.jie;create;-
+26617;2016-10-04 07:01:14;python-dev;set;status: open -> closed
+26617;2016-10-04 07:01:14;python-dev;set;nosy:  + python-dev
+26617;2016-10-04 07:01:14;python-dev;set;messages:  + msg278015
+26617;2016-10-04 07:01:14;python-dev;set;resolution: fixed
+26617;2016-10-04 07:01:14;python-dev;set;stage: resolved
+26617;2016-10-03 11:28:13;guojiahua;set;messages:  + msg277952
+26617;2016-10-03 09:04:53;asvetlov;set;nosy:  + asvetlov
+26617;2016-10-03 09:04:53;asvetlov;set;messages:  + msg277941
+26617;2016-10-03 07:59:32;haypo;set;priority: normal -> release blocker
+26617;2016-10-03 07:59:32;haypo;set;nosy:  + larry, ned.deily
+26617;2016-10-03 07:59:32;haypo;set;messages:  + msg277935
+26617;2016-10-03 07:55:33;haypo;set;versions:  + Python 3.6, Python 3.7
+26617;2016-10-03 06:27:52;balloob;set;nosy:  + balloob
+26617;2016-10-01 17:56:00;gvanrossum;set;nosy:  + gvanrossum
+26617;2016-10-01 17:56:00;gvanrossum;set;messages:  + msg277825
+26617;2016-05-18 15:40:13;guojiahua;set;files:  + patch
+26617;2016-03-23 07:58:19;haypo;set;nosy:  + tim.peters
+26617;2016-03-23 07:58:12;haypo;set;files:  + crash.py
+26617;2016-03-23 07:58:12;haypo;set;messages:  + msg262245
+26617;2016-03-23 07:12:07;serhiy.storchaka;set;nosy:  + fdrake, pitrou, haypo
+26617;2016-03-23 06:59:39;xiang.zhang;set;nosy:  + xiang.zhang
+26617;2016-03-23 06:54:34;guojiahua;set;nosy:  + guojiahua
+26617;2016-03-23 06:49:42;Yang Ke;set;nosy:  + Yang Ke, - guojiahua
+26617;2016-03-23 06:49:42;Yang Ke;set;messages:  + msg262243
+26617;2016-03-23 06:08:59;guojiahua;create;-
+28225;2016-10-02 17:05:46;berker.peksag;set;status: open -> closed
+28225;2016-10-02 17:05:46;berker.peksag;set;resolution: fixed
+28225;2016-10-02 17:05:46;berker.peksag;set;stage: commit review -> resolved
+28225;2016-10-02 17:05:23;python-dev;set;nosy:  + python-dev
+28225;2016-10-02 17:05:23;python-dev;set;messages:  + msg277903
+28225;2016-10-02 16:43:37;serhiy.storchaka;set;nosy:  + serhiy.storchaka
+28225;2016-10-02 16:43:37;serhiy.storchaka;set;messages:  + msg277902
+28225;2016-10-02 16:43:37;serhiy.storchaka;set;stage: patch review -> commit review
+28225;2016-10-02 16:27:35;berker.peksag;set;files:  + issue28225_v2.diff
+28225;2016-10-02 16:27:35;berker.peksag;set;messages:  + msg277901
+28225;2016-10-01 02:09:27;berker.peksag;set;nosy:  + berker.peksag
+28225;2016-10-01 02:06:52;berker.peksag;link;issue27511 superseder
+28225;2016-09-25 18:26:14;brett.cannon;set;assignee: ethan.furman
+28225;2016-09-25 18:26:14;brett.cannon;set;messages:  + msg277390
+28225;2016-09-23 21:32:32;ned.deily;set;nosy:  + ned.deily
+28225;2016-09-23 21:32:32;ned.deily;set;versions:  + Python 3.7
+28225;2016-09-21 07:35:04;xiang.zhang;set;nosy:  + xiang.zhang
+28225;2016-09-21 07:35:04;xiang.zhang;set;messages:  + msg277106
+28225;2016-09-21 07:27:45;ethan.furman;create;-
+28227;2016-10-02 10:47:36;berker.peksag;set;status: open -> closed
+28227;2016-10-02 10:47:36;berker.peksag;set;resolution: fixed
+28227;2016-10-02 10:47:36;berker.peksag;set;messages:  + msg277885
+28227;2016-10-02 10:47:36;berker.peksag;set;stage: commit review -> resolved
+28227;2016-10-02 10:46:52;python-dev;set;nosy:  + python-dev
+28227;2016-10-02 10:46:52;python-dev;set;messages:  + msg277884
+28227;2016-10-02 10:38:25;serhiy.storchaka;set;assignee: berker.peksag
+28227;2016-10-02 10:38:25;serhiy.storchaka;set;messages:  + msg277883
+28227;2016-10-02 10:38:25;serhiy.storchaka;set;stage: patch review -> commit review
+28227;2016-10-02 10:21:56;berker.peksag;set;messages:  + msg277881
+28227;2016-10-02 10:19:41;berker.peksag;set;files:  + issue28227_v3.diff
+28227;2016-10-02 10:19:41;berker.peksag;set;messages:  + msg277879
+28227;2016-10-02 10:03:06;serhiy.storchaka;set;messages:  + msg277876
+28227;2016-10-02 09:12:15;berker.peksag;set;files:  + issue28227_v2.diff
+28227;2016-10-02 09:12:15;berker.peksag;set;messages:  + msg277865
+28227;2016-10-01 02:09:07;berker.peksag;set;nosy:  + berker.peksag
+28227;2016-09-23 21:33:28;ned.deily;set;nosy:  + ned.deily
+28227;2016-09-23 21:33:28;ned.deily;set;versions:  + Python 3.6, Python 3.7
+28227;2016-09-21 08:36:13;serhiy.storchaka;set;messages:  + msg277110
+28227;2016-09-21 08:33:01;serhiy.storchaka;set;nosy:  + serhiy.storchaka
+28227;2016-09-21 07:29:26;ethan.furman;create;-
+28217;2016-10-03 16:13:41;steve.dower;set;status: open -> closed
+28217;2016-10-03 16:13:41;steve.dower;set;resolution: fixed
+28217;2016-10-03 16:13:41;steve.dower;set;stage: test needed -> resolved
+28217;2016-10-03 16:12:55;python-dev;set;nosy:  + python-dev
+28217;2016-10-03 16:12:55;python-dev;set;messages:  + msg277963
+28217;2016-09-30 17:15:04;steve.dower;set;files:  + 28217_1.patch
+28217;2016-09-30 17:15:04;steve.dower;set;keywords:  + patch
+28217;2016-09-30 17:15:04;steve.dower;set;messages:  + msg277763
+28217;2016-09-28 15:19:58;steve.dower;set;assignee: steve.dower
+28217;2016-09-20 22:47:45;eryksun;set;files:  + conout.py
+28217;2016-09-20 22:46:24;eryksun;set;files:  + conin.py
+28217;2016-09-20 22:46:24;eryksun;set;nosy:  + eryksun
+28217;2016-09-20 22:46:24;eryksun;set;messages:  + msg277078
+28217;2016-09-20 17:45:06;steve.dower;link;issue1602 superseder
+28217;2016-09-20 17:44:27;steve.dower;create;-
+24036;2016-10-03 03:50:57;Artoria2e5;set;nosy:  + Artoria2e5
+24036;2016-10-03 03:50:57;Artoria2e5;set;messages:  + msg277926
+24036;2016-01-04 11:37:52;lemburg;set;status: open -> closed
+24036;2016-01-04 11:37:52;lemburg;set;resolution: wont fix
+24036;2016-01-04 11:37:52;lemburg;set;messages:  + msg257458
+24036;2016-01-04 11:30:55;Ma Lin;set;messages:  + msg257457
+24036;2016-01-04 10:57:27;lemburg;set;messages:  + msg257454
+24036;2016-01-02 08:38:31;ezio.melotti;set;stage: patch review
+24036;2015-04-24 12:41:23;Ma Lin;set;messages:  + msg241938
+24036;2015-04-24 07:43:53;lemburg;set;messages:  + msg241920
+24036;2015-04-24 04:19:48;Ma Lin;set;messages:  + msg241909
+24036;2015-04-23 13:43:22;serhiy.storchaka;set;nosy:  + lemburg, loewis
+24036;2015-04-23 09:43:55;Ma Lin;set;messages:  + msg241859
+24036;2015-04-23 09:29:41;Ma Lin;create;-
+28295;2016-10-02 19:00:59;serhiy.storchaka;set;messages:  + msg277911
+28295;2016-10-02 18:50:39;xiang.zhang;set;messages:  + msg277910
+28295;2016-10-02 18:35:41;serhiy.storchaka;set;status: open -> closed
+28295;2016-10-02 18:35:41;serhiy.storchaka;set;assignee: serhiy.storchaka
+28295;2016-10-02 18:35:41;serhiy.storchaka;set;resolution: fixed
+28295;2016-10-02 18:35:41;serhiy.storchaka;set;stage: patch review -> resolved
+28295;2016-10-02 18:35:19;serhiy.storchaka;set;messages:  + msg277909
+28295;2016-10-02 18:31:24;python-dev;set;nosy:  + python-dev
+28295;2016-10-02 18:31:24;python-dev;set;messages:  + msg277908
+28295;2016-10-02 17:54:06;xiang.zhang;set;messages:  + msg277906
+28295;2016-10-02 17:39:02;serhiy.storchaka;set;messages:  + msg277905
+28295;2016-10-02 10:56:17;xiang.zhang;set;files:  + PyUnicode_AsUCS4_v3.patch
+28295;2016-10-02 10:56:17;xiang.zhang;set;messages:  + msg277886
+28295;2016-09-30 05:16:00;xiang.zhang;set;files:  + PyUnicode_AsUCS4_v2.patch
+28295;2016-09-30 05:16:00;xiang.zhang;set;messages:  + msg277738
+28295;2016-09-29 19:25:05;serhiy.storchaka;set;messages:  + msg277715
+28295;2016-09-28 15:13:41;xiang.zhang;set;files:  + PyUnicode_AsUCS4.patch
+28295;2016-09-28 15:13:41;xiang.zhang;set;keywords:  + patch
+28295;2016-09-28 15:13:41;xiang.zhang;set;messages:  + msg277637
+28295;2016-09-28 15:13:41;xiang.zhang;set;stage: patch review
+28295;2016-09-28 08:11:06;xiang.zhang;create;-
+28322;2016-10-02 06:21:44;serhiy.storchaka;set;status: open -> closed
+28322;2016-10-02 06:21:44;serhiy.storchaka;set;versions:  - Python 2.7
+28322;2016-10-02 06:21:44;serhiy.storchaka;set;messages:  + msg277856
+28322;2016-10-02 06:21:44;serhiy.storchaka;set;assignee: serhiy.storchaka
+28322;2016-10-02 06:21:44;serhiy.storchaka;set;resolution: fixed
+28322;2016-10-02 06:21:44;serhiy.storchaka;set;stage: patch review -> resolved
+28322;2016-10-02 06:17:32;python-dev;set;nosy:  + python-dev
+28322;2016-10-02 06:17:32;python-dev;set;messages:  + msg277855
+28322;2016-10-02 04:25:34;rhettinger;set;messages:  + msg277848
+28322;2016-10-01 10:06:59;serhiy.storchaka;set;files:  + itertools_setstate.patch
+28322;2016-10-01 10:06:59;serhiy.storchaka;set;type: security -> crash
+28322;2016-10-01 10:06:59;serhiy.storchaka;set;messages:  + msg277804
+28322;2016-10-01 06:34:45;serhiy.storchaka;set;nosy:  + rhettinger, serhiy.storchaka
+28322;2016-10-01 06:34:45;serhiy.storchaka;set;stage: patch review
+28322;2016-10-01 06:34:45;serhiy.storchaka;set;versions:  + Python 2.7, Python 3.6, Python 3.7
+28322;2016-10-01 06:29:53;JohnLeitch;set;files:  + Py35_itertools.py
+28322;2016-10-01 06:27:48;JohnLeitch;create;-
+28294;2016-10-02 12:19:57;grismar;set;messages:  + msg277888
+28294;2016-10-02 00:10:14;r.david.murray;set;status: open -> closed
+28294;2016-10-02 00:10:14;r.david.murray;set;resolution: wont fix
+28294;2016-10-02 00:10:14;r.david.murray;set;messages:  + msg277834
+28294;2016-10-02 00:10:14;r.david.murray;set;stage: resolved
+28294;2016-10-01 15:35:33;gvanrossum;set;messages:  + msg277823
+28294;2016-10-01 15:22:26;grismar;set;messages:  + msg277822
+28294;2016-10-01 13:01:02;r.david.murray;set;messages:  + msg277813
+28294;2016-09-30 23:10:24;gvanrossum;set;nosy:  + gvanrossum
+28294;2016-09-30 23:10:24;gvanrossum;set;messages:  + msg277782
+28294;2016-09-30 05:37:11;Mariatta;set;files:  + issue28294.patch
+28294;2016-09-30 05:37:11;Mariatta;set;keywords:  + patch
+28294;2016-09-30 05:37:11;Mariatta;set;messages:  + msg277739
+28294;2016-09-29 14:14:44;Mariatta;set;messages:  + msg277705
+28294;2016-09-29 08:13:24;orsenthil;set;keywords:  + easy, needs review
+28294;2016-09-29 08:13:24;orsenthil;set;nosy:  + orsenthil
+28294;2016-09-29 08:13:24;orsenthil;set;messages:  + msg277686
+28294;2016-09-28 21:11:08;Mariatta;set;nosy:  + Mariatta
+28294;2016-09-28 13:42:04;r.david.murray;set;nosy:  + r.david.murray
+28294;2016-09-28 13:42:04;r.david.murray;set;messages:  + msg277617
+28294;2016-09-28 07:08:24;grismar;create;-
+28324;2016-10-02 01:36:28;ned.deily;set;status: open -> closed
+28324;2016-10-02 01:36:28;ned.deily;set;type: enhancement -> 
+28324;2016-10-02 01:36:28;ned.deily;set;messages:  + msg277841
+28324;2016-10-02 01:36:28;ned.deily;set;keywords:  + gsoc, - patch
+28324;2016-10-02 01:36:28;ned.deily;set;resolution: fixed
+28324;2016-10-02 01:36:28;ned.deily;set;stage: resolved
+28324;2016-10-02 01:34:04;python-dev;set;nosy:  + python-dev
+28324;2016-10-02 01:34:04;python-dev;set;messages:  + msg277839
+28324;2016-10-01 09:56:14;Chi Hsuan Yen;create;-
+28323;2016-10-02 01:35:13;ned.deily;set;status: open -> closed
+28323;2016-10-02 01:35:13;ned.deily;set;type: enhancement -> 
+28323;2016-10-02 01:35:13;ned.deily;set;messages:  + msg277840
+28323;2016-10-02 01:35:13;ned.deily;set;resolution: fixed
+28323;2016-10-02 01:35:13;ned.deily;set;stage: resolved
+28323;2016-10-02 01:34:04;python-dev;set;nosy:  + python-dev
+28323;2016-10-02 01:34:04;python-dev;set;messages:  + msg277838
+28323;2016-10-01 09:47:07;Chi Hsuan Yen;create;-
+28332;2016-10-02 09:39:43;serhiy.storchaka;set;status: open -> closed
+28332;2016-10-02 09:39:43;serhiy.storchaka;set;resolution: fixed
+28332;2016-10-02 09:39:43;serhiy.storchaka;set;messages:  + msg277872
+28332;2016-10-02 09:39:43;serhiy.storchaka;set;stage: patch review -> resolved
+28332;2016-10-02 09:35:15;python-dev;set;nosy:  + python-dev
+28332;2016-10-02 09:35:15;python-dev;set;messages:  + msg277871
+28332;2016-10-02 06:51:22;Oren Milman;set;files:  + patchedCPythonTestOutput_ver2.txt
+28332;2016-10-02 06:50:46;Oren Milman;set;files:  + issue28332_ver2.diff
+28332;2016-10-02 06:50:46;Oren Milman;set;messages:  + msg277857
+28332;2016-10-01 19:40:14;serhiy.storchaka;set;nosy:  + serhiy.storchaka
+28332;2016-10-01 19:40:14;serhiy.storchaka;set;messages:  + msg277830
+28332;2016-10-01 19:40:14;serhiy.storchaka;set;stage: patch review
+28332;2016-10-01 15:07:52;Oren Milman;set;files:  + issue28332_ver1.diff
+28332;2016-10-01 15:07:52;Oren Milman;set;keywords:  + patch
+28332;2016-10-01 15:07:08;Oren Milman;set;files:  + patchedCPythonTestOutput_ver1.txt
+28332;2016-10-01 15:06:10;Oren Milman;create;-
+20254;2016-10-02 08:38:50;berker.peksag;set;status: open -> closed
+20254;2016-10-02 08:38:50;berker.peksag;set;versions:  + Python 3.6, Python 3.7, - Python 3.4
+20254;2016-10-02 08:38:50;berker.peksag;set;nosy:  + berker.peksag
+20254;2016-10-02 08:38:50;berker.peksag;set;messages:  + msg277862
+20254;2016-10-02 08:38:50;berker.peksag;set;resolution: fixed
+20254;2016-10-02 08:38:50;berker.peksag;set;stage: resolved
+20254;2016-10-02 08:38:18;python-dev;set;nosy:  + python-dev
+20254;2016-10-02 08:38:18;python-dev;set;messages:  + msg277861
+20254;2014-06-19 22:34:43;BreamoreBoy;set;nosy:  + BreamoreBoy
+20254;2014-06-19 22:34:43;BreamoreBoy;set;messages:  + msg221043
+20254;2014-06-19 22:34:43;BreamoreBoy;set;versions:  + Python 3.5, - Python 3.3
+20254;2014-01-17 23:59:07;terry.reedy;set;nosy:  + terry.reedy, pitrou
+20254;2014-01-14 07:30:47;vajrasky;create;-
+27897;2016-10-01 05:26:03;serhiy.storchaka;set;messages:  + msg277795
+27897;2016-10-01 05:26:03;serhiy.storchaka;set;versions:  + Python 2.7
+27897;2016-10-01 05:25:25;python-dev;set;messages:  + msg277794
+27897;2016-10-01 02:58:50;martin.panter;set;nosy:  + martin.panter
+27897;2016-10-01 02:58:50;martin.panter;set;messages:  + msg277791
+27897;2016-09-26 21:28:43;serhiy.storchaka;set;status: open -> closed
+27897;2016-09-26 21:28:43;serhiy.storchaka;set;resolution: fixed
+27897;2016-09-26 21:28:43;serhiy.storchaka;set;messages:  + msg277472
+27897;2016-09-26 21:28:43;serhiy.storchaka;set;stage: patch review -> resolved
+27897;2016-09-26 21:27:51;python-dev;set;messages:  + msg277471
+27897;2016-09-26 21:16:44;python-dev;set;nosy:  + python-dev
+27897;2016-09-26 21:16:44;python-dev;set;messages:  + msg277470
+27897;2016-09-26 20:25:59;serhiy.storchaka;set;assignee: serhiy.storchaka
+27897;2016-09-26 20:25:59;serhiy.storchaka;set;stage: patch review
+27897;2016-09-26 20:25:59;serhiy.storchaka;set;versions:  + Python 3.7
+27897;2016-08-30 16:22:28;xiang.zhang;create;-
+28258;2016-10-01 12:23:40;serhiy.storchaka;set;messages:  + msg277810
+28258;2016-09-29 20:33:44;python-dev;set;messages:  + msg277726
+28258;2016-09-29 19:51:19;serhiy.storchaka;set;messages:  + msg277720
+28258;2016-09-29 19:36:53;haypo;set;messages:  + msg277716
+28258;2016-09-29 18:47:43;serhiy.storchaka;set;messages:  + msg277714
+28258;2016-09-29 18:19:19;haypo;set;messages:  + msg277712
+28258;2016-09-29 17:48:56;serhiy.storchaka;set;status: open -> closed
+28258;2016-09-29 17:48:56;serhiy.storchaka;set;versions:  + Python 2.7
+28258;2016-09-29 17:48:56;serhiy.storchaka;set;resolution: fixed
+28258;2016-09-29 17:48:56;serhiy.storchaka;set;assignee: twouters -> serhiy.storchaka
+28258;2016-09-29 17:48:56;serhiy.storchaka;set;type: compile error
+28258;2016-09-29 17:48:56;serhiy.storchaka;set;stage: resolved
+28258;2016-09-29 17:48:08;python-dev;set;nosy:  + python-dev
+28258;2016-09-29 17:48:08;python-dev;set;messages:  + msg277711
+28258;2016-09-23 14:55:52;serhiy.storchaka;set;messages:  + msg277281
+28258;2016-09-23 14:30:40;Arfrever;set;messages:  + msg277280
+28258;2016-09-23 14:01:33;serhiy.storchaka;set;nosy:  + serhiy.storchaka
+28258;2016-09-23 13:38:40;haypo;set;nosy:  + haypo
+28258;2016-09-23 13:31:38;Arfrever;create;-
+28228;2016-10-01 02:08:57;berker.peksag;set;status: open -> closed
+28228;2016-10-01 02:08:57;berker.peksag;set;type: enhancement -> behavior
+28228;2016-10-01 02:08:57;berker.peksag;set;messages:  + msg277789
+28228;2016-10-01 02:08:57;berker.peksag;set;resolution: fixed
+28228;2016-10-01 02:08:57;berker.peksag;set;stage: patch review -> resolved
+28228;2016-10-01 02:00:15;python-dev;set;nosy:  + python-dev
+28228;2016-10-01 02:00:15;python-dev;set;messages:  + msg277788
+28228;2016-09-30 22:13:02;brett.cannon;set;assignee: berker.peksag
+28228;2016-09-30 22:13:02;brett.cannon;set;messages:  + msg277776
+28228;2016-09-30 18:43:00;ethan.furman;set;messages:  + msg277768
+28228;2016-09-30 00:23:08;berker.peksag;set;files:  + issue28228_v2.diff
+28228;2016-09-30 00:23:08;berker.peksag;set;nosy:  + berker.peksag
+28228;2016-09-30 00:23:08;berker.peksag;set;messages:  + msg277732
+28228;2016-09-29 21:09:03;brett.cannon;set;messages:  + msg277728
+28228;2016-09-23 21:31:26;ned.deily;set;messages:  - msg277300
+28228;2016-09-23 21:31:12;ned.deily;set;messages:  + msg277301
+28228;2016-09-23 21:27:03;ned.deily;set;messages:  + msg277300
+28228;2016-09-23 21:27:03;ned.deily;set;versions:  + Python 3.7
+28228;2016-09-21 20:52:01;brett.cannon;set;nosy:  + ned.deily
+28228;2016-09-21 20:52:01;brett.cannon;set;messages:  + msg277183
+28228;2016-09-21 20:21:53;ethan.furman;set;messages:  + msg277182
+28228;2016-09-21 08:43:35;serhiy.storchaka;set;type: behavior -> enhancement
+28228;2016-09-21 08:43:35;serhiy.storchaka;set;components:  + Library (Lib)
+28228;2016-09-21 08:43:15;serhiy.storchaka;set;nosy:  + serhiy.storchaka
+28228;2016-09-21 07:30:06;ethan.furman;create;-
+28275;2016-10-01 04:22:52;martin.panter;set;status: open -> closed
+28275;2016-10-01 04:22:52;martin.panter;set;resolution: fixed
+28275;2016-10-01 04:22:52;martin.panter;set;stage: commit review -> resolved
+28275;2016-10-01 03:30:53;python-dev;set;messages:  + msg277792
+28275;2016-09-29 05:13:55;serhiy.storchaka;set;resolution: fixed -> (no value)
+28275;2016-09-29 05:13:55;serhiy.storchaka;set;messages:  + msg277683
+28275;2016-09-29 05:13:55;serhiy.storchaka;set;stage: resolved -> commit review
+28275;2016-09-29 02:34:28;martin.panter;set;status: closed -> open
+28275;2016-09-29 02:34:28;martin.panter;set;files:  + bzip-failure.patch
+28275;2016-09-29 02:34:28;martin.panter;set;nosy:  + martin.panter
+28275;2016-09-29 02:34:28;martin.panter;set;messages:  + msg277681
+28275;2016-09-29 02:34:28;martin.panter;set;assignee: serhiy.storchaka -> martin.panter
+28275;2016-09-27 17:28:00;serhiy.storchaka;set;status: open -> closed
+28275;2016-09-27 17:28:00;serhiy.storchaka;set;resolution: fixed
+28275;2016-09-27 17:28:00;serhiy.storchaka;set;messages:  + msg277529
+28275;2016-09-27 17:28:00;serhiy.storchaka;set;stage: patch review -> resolved
+28275;2016-09-27 17:24:55;python-dev;set;nosy:  + python-dev
+28275;2016-09-27 17:24:55;python-dev;set;messages:  + msg277528
+28275;2016-09-26 14:36:21;christian.heimes;set;priority: normal -> critical
+28275;2016-09-26 14:36:21;christian.heimes;set;versions:  + Python 3.6, Python 3.7
+28275;2016-09-26 08:25:57;serhiy.storchaka;set;assignee: serhiy.storchaka
+28275;2016-09-26 08:25:57;serhiy.storchaka;set;stage: test needed -> patch review
+28275;2016-09-26 08:08:19;JohnLeitch;set;files:  + _lzmamodule_uaf_fix-2.patch
+28275;2016-09-26 08:08:19;JohnLeitch;set;messages:  + msg277407
+28275;2016-09-26 05:41:32;serhiy.storchaka;set;nosy:  + serhiy.storchaka
+28275;2016-09-26 05:41:32;serhiy.storchaka;set;messages:  + msg277404
+28275;2016-09-26 05:41:32;serhiy.storchaka;set;stage: test needed
+28275;2016-09-26 04:42:45;alex;set;nosy:  + nadeem.vawda
+28275;2016-09-26 04:35:57;alex;set;keywords:  + security_issue
+28275;2016-09-26 04:34:24;JohnLeitch;set;files:  + Py35_LZMADecompressor.py
+28275;2016-09-26 04:33:36;JohnLeitch;create;-
+27358;2016-10-02 10:10:28;serhiy.storchaka;set;messages:  + msg277878
+27358;2016-10-02 10:06:36;python-dev;set;messages:  + msg277877
+27358;2016-10-02 09:15:55;berker.peksag;set;nosy:  + berker.peksag
+27358;2016-10-02 09:15:55;berker.peksag;set;messages:  + msg277866
+27358;2016-10-02 08:39:02;serhiy.storchaka;set;status: open -> closed
+27358;2016-10-02 08:39:02;serhiy.storchaka;set;resolution: fixed
+27358;2016-10-02 08:39:02;serhiy.storchaka;set;stage: patch review -> resolved
+27358;2016-10-02 08:12:37;python-dev;set;nosy:  + python-dev
+27358;2016-10-02 08:12:37;python-dev;set;messages:  + msg277859
+27358;2016-10-02 07:41:56;serhiy.storchaka;set;assignee: serhiy.storchaka
+27358;2016-10-02 07:41:56;serhiy.storchaka;set;versions:  + Python 3.7
+27358;2016-09-23 20:47:07;serhiy.storchaka;set;files:  + faster_build_map_unpack_with_call2.patch
+27358;2016-09-23 20:47:07;serhiy.storchaka;set;messages:  + msg277297
+27358;2016-09-23 16:58:57;serhiy.storchaka;set;messages:  + msg277287
+27358;2016-09-23 16:23:29;haypo;set;messages:  + msg277285
+27358;2016-09-23 15:31:57;serhiy.storchaka;set;messages:  + msg277283
+27358;2016-09-23 14:08:53;serhiy.storchaka;set;messages:  + msg277279
+27358;2016-09-23 14:06:55;serhiy.storchaka;link;issue28257 dependencies
+27358;2016-09-10 22:56:44;serhiy.storchaka;set;files:  + faster_build_map_unpack_with_call.patch
+27358;2016-09-10 22:56:44;serhiy.storchaka;set;messages:  + msg275710
+27358;2016-08-25 21:45:08;haypo;set;nosy:  + haypo
+27358;2016-08-25 21:45:08;haypo;set;messages:  + msg273680
+27358;2016-06-21 13:43:10;serhiy.storchaka;set;nosy:  + rhettinger
+27358;2016-06-21 13:43:10;serhiy.storchaka;set;messages:  + msg268997
+27358;2016-06-21 13:15:19;ebarry;set;nosy:  + ebarry
+27358;2016-06-21 13:15:19;ebarry;set;messages:  + msg268992
+27358;2016-06-21 13:05:39;Demur Rumed;set;messages:  + msg268990
+27358;2016-06-21 13:03:20;Demur Rumed;set;files:  + mapaca2.patch
+27358;2016-06-21 13:03:20;Demur Rumed;set;messages:  + msg268989
+27358;2016-06-21 05:00:19;serhiy.storchaka;set;messages:  + msg268967
+27358;2016-06-21 05:00:19;serhiy.storchaka;set;stage: patch review
+27358;2016-06-21 01:49:20;Demur Rumed;set;nosy:  + serhiy.storchaka
+27358;2016-06-21 01:46:29;Demur Rumed;set;type: performance
+27358;2016-06-21 01:46:29;Demur Rumed;set;components:  + Interpreter Core
+27358;2016-06-21 01:46:29;Demur Rumed;set;versions:  + Python 3.6
+27358;2016-06-21 01:46:01;Demur Rumed;create;-
+27511;2016-10-01 02:06:52;berker.peksag;set;status: open -> closed
+27511;2016-10-01 02:06:52;berker.peksag;set;superseder: bz2 does not support pathlib
+27511;2016-10-01 02:06:52;berker.peksag;set;resolution: duplicate
+27511;2016-10-01 02:06:52;berker.peksag;set;stage: resolved
+27511;2016-09-25 10:40:20;serhiy.storchaka;link;issue28268 superseder
+27511;2016-07-14 09:07:21;xiang.zhang;set;type: enhancement
+27511;2016-07-14 09:07:21;xiang.zhang;set;components:  + Library (Lib)
+27511;2016-07-14 09:07:21;xiang.zhang;set;versions:  + Python 3.6
+27511;2016-07-14 09:06:36;xiang.zhang;create;-
+10415;2016-10-01 00:02:51;berker.peksag;set;status: pending -> closed
+10415;2016-10-01 00:02:51;berker.peksag;set;type: behavior
+10415;2016-10-01 00:02:51;berker.peksag;set;messages:  + msg277785
+10415;2016-10-01 00:02:51;berker.peksag;set;resolution: out of date
+10415;2016-10-01 00:02:51;berker.peksag;set;stage: needs patch -> resolved
+10415;2016-06-21 05:52:48;martin.panter;set;status: open -> pending
+10415;2016-06-21 05:52:48;martin.panter;set;nosy:  + martin.panter
+10415;2016-06-21 05:52:48;martin.panter;set;messages:  + msg268971
+10415;2016-06-21 05:52:48;martin.panter;set;stage: needs patch
+10415;2014-03-12 02:42:24;matheus.v.portela;set;files:  + test_readline.py
+10415;2014-03-12 02:42:24;matheus.v.portela;set;messages:  + msg213194
+10415;2014-03-05 18:41:52;berker.peksag;set;nosy:  + berker.peksag
+10415;2014-03-05 18:41:52;berker.peksag;set;messages:  + msg212767
+10415;2014-03-05 18:41:52;berker.peksag;set;versions:  + Python 3.3, Python 3.4, - Python 3.1, Python 3.2
+10415;2014-03-05 17:38:55;matheus.v.portela;set;nosy:  + matheus.v.portela
+10415;2014-03-05 17:38:55;matheus.v.portela;set;messages:  + msg212765
+10415;2010-12-26 01:44:30;eric.araujo;set;nosy:  + eric.araujo
+10415;2010-12-26 01:44:30;eric.araujo;set;messages:  + msg124655
+10415;2010-12-26 01:44:30;eric.araujo;set;versions:  + Python 2.7, Python 3.2
+10415;2010-11-14 07:14:44;Justin.Lebar;set;messages:  + msg121179
+10415;2010-11-14 07:12:13;Justin.Lebar;create;-
+28226;2016-10-01 01:09:49;berker.peksag;set;status: open -> closed
+28226;2016-09-30 23:42:56;python-dev;set;messages:  + msg277784
+28226;2016-09-30 22:16:06;berker.peksag;set;status: closed -> open
+28226;2016-09-30 22:16:06;berker.peksag;set;messages:  + msg277777
+28226;2016-09-30 22:08:16;ethan.furman;set;assignee: ethan.furman -> 
+28226;2016-09-30 22:08:16;ethan.furman;set;messages:  + msg277775
+28226;2016-09-30 21:54:06;berker.peksag;set;status: open -> closed
+28226;2016-09-30 21:54:06;berker.peksag;set;resolution: fixed
+28226;2016-09-30 21:54:06;berker.peksag;set;messages:  + msg277774
+28226;2016-09-30 21:54:06;berker.peksag;set;stage: patch review -> resolved
+28226;2016-09-30 21:52:50;python-dev;set;nosy:  + python-dev
+28226;2016-09-30 21:52:50;python-dev;set;messages:  + msg277773
+28226;2016-09-30 03:42:40;berker.peksag;set;files:  + issue28226_v3.diff
+28226;2016-09-30 03:24:16;berker.peksag;set;files:  + issue28226_v2.diff
+28226;2016-09-30 03:24:16;berker.peksag;set;nosy:  + berker.peksag
+28226;2016-09-30 03:24:16;berker.peksag;set;messages:  + msg277736
+28226;2016-09-30 03:24:16;berker.peksag;set;components:  + Library (Lib)
+28226;2016-09-25 18:33:21;brett.cannon;set;assignee: ethan.furman
+28226;2016-09-25 18:33:21;brett.cannon;set;messages:  + msg277392
+28226;2016-09-23 21:32:53;ned.deily;set;nosy:  + ned.deily
+28226;2016-09-23 21:32:53;ned.deily;set;versions:  + Python 3.7
+28226;2016-09-21 07:28:34;ethan.furman;create;-
+27942;2016-09-30 07:57:46;serhiy.storchaka;set;status: open -> closed
+27942;2016-09-30 07:57:46;serhiy.storchaka;set;versions:  + Python 2.7, Python 3.5
+27942;2016-09-30 07:57:46;serhiy.storchaka;set;messages:  + msg277749
+27942;2016-09-30 07:57:46;serhiy.storchaka;set;resolution: fixed
+27942;2016-09-30 07:57:46;serhiy.storchaka;set;stage: patch review -> resolved
+27942;2016-09-30 07:40:02;python-dev;set;nosy:  + python-dev
+27942;2016-09-30 07:40:02;python-dev;set;messages:  + msg277748
+27942;2016-09-30 06:12:45;josh.r;set;nosy:  + josh.r
+27942;2016-09-29 13:12:14;serhiy.storchaka;set;assignee: serhiy.storchaka
+27942;2016-09-25 10:44:49;serhiy.storchaka;link;issue26148 superseder
+27942;2016-09-25 10:37:35;serhiy.storchaka;set;files:  + intern_string_constants.patch
+27942;2016-09-25 10:37:35;serhiy.storchaka;set;versions:  + Python 3.7
+27942;2016-09-25 10:37:35;serhiy.storchaka;set;messages:  + msg277359
+27942;2016-09-25 10:37:35;serhiy.storchaka;set;keywords:  + patch
+27942;2016-09-25 10:37:35;serhiy.storchaka;set;stage: patch review
+27942;2016-09-24 17:39:13;rhettinger;set;nosy:  + rhettinger
+27942;2016-09-24 17:39:13;rhettinger;set;messages:  + msg277323
+27942;2016-09-24 08:03:24;kayhayen;set;nosy:  + kayhayen
+27942;2016-09-24 08:03:24;kayhayen;set;messages:  + msg277313
+27942;2016-09-02 17:23:12;serhiy.storchaka;set;nosy:  + serhiy.storchaka
+27942;2016-09-02 17:23:12;serhiy.storchaka;set;messages:  + msg274263
+27942;2016-09-02 17:19:50;steven.daprano;set;nosy:  + steven.daprano
+27942;2016-09-02 17:19:50;steven.daprano;set;messages:  + msg274262
+27942;2016-09-02 16:45:37;Kay.Hayen;create;-
+28310;2016-09-29 10:34:48;haypo;set;nosy:  + haypo
+28310;2016-09-29 10:34:48;haypo;set;messages:  + msg277698
+28310;2016-09-29 10:22:52;xiang.zhang;set;status: open -> closed
+28310;2016-09-29 10:22:52;xiang.zhang;set;nosy:  + xiang.zhang
+28310;2016-09-29 10:22:52;xiang.zhang;set;messages:  + msg277696
+28310;2016-09-29 10:22:52;xiang.zhang;set;resolution: not a bug
+28310;2016-09-29 10:22:52;xiang.zhang;set;stage: resolved
+28310;2016-09-29 09:02:10;untitaker;create;-
+28313;2016-09-29 21:59:23;qubodup;set;messages:  + msg277730
+28313;2016-09-29 20:44:50;serhiy.storchaka;set;status: open -> closed
+28313;2016-09-29 20:44:50;serhiy.storchaka;set;files:  + issue28313.tcl
+28313;2016-09-29 20:44:50;serhiy.storchaka;set;nosy:  + serhiy.storchaka
+28313;2016-09-29 20:44:50;serhiy.storchaka;set;messages:  + msg277727
+28313;2016-09-29 20:44:50;serhiy.storchaka;set;resolution: third party
+28313;2016-09-29 20:44:50;serhiy.storchaka;set;stage: resolved
+28313;2016-09-29 15:28:28;qubodup;create;-
+1703178;2016-09-29 06:17:26;python-dev;set;status: open -> closed
+1703178;2016-09-29 06:17:26;python-dev;set;nosy:  + python-dev
+1703178;2016-09-29 06:17:26;python-dev;set;messages:  + msg277684
+1703178;2016-09-29 06:17:26;python-dev;set;resolution: fixed
+1703178;2016-09-29 06:17:26;python-dev;set;stage: patch review -> resolved
+1703178;2014-12-25 02:40:32;r.david.murray;set;nosy:  + r.david.murray
+1703178;2014-12-25 02:40:32;r.david.murray;set;messages:  + msg233092
+1703178;2014-12-25 02:40:32;r.david.murray;set;assignee: eric.araujo
+1703178;2014-12-25 02:40:32;r.david.murray;set;stage: commit review -> patch review
+1703178;2014-12-09 22:07:32;berker.peksag;set;stage: patch review -> commit review
+1703178;2014-12-09 21:29:46;lambertv;set;files:  + build_ext_v2.patch
+1703178;2014-12-09 21:29:46;lambertv;set;messages:  + msg232401
+1703178;2014-12-09 08:59:42;bru;set;nosy:  + bru
+1703178;2014-12-09 08:59:42;bru;set;messages:  + msg232357
+1703178;2014-12-08 22:20:08;eric.araujo;set;assignee: eric.araujo -> (no value)
+1703178;2014-12-08 22:20:08;eric.araujo;set;messages:  + msg232333
+1703178;2014-12-08 21:47:13;terry.reedy;set;nosy:  + terry.reedy, dstufft, - tarek
+1703178;2014-12-08 21:47:13;terry.reedy;set;messages:  + msg232331
+1703178;2014-10-10 15:13:14;terry.reedy;set;nosy:  - terry.reedy
+1703178;2014-10-10 15:12:29;terry.reedy;set;nosy:  terry.reedy, mschatte, tarek, eric.araujo, alexis, lambertv
+1703178;2014-10-10 15:12:29;terry.reedy;set;versions:  + Python 3.5, - Python 3.3
+1703178;2014-10-10 15:12:29;terry.reedy;set;messages:  + msg229009
+1703178;2014-10-10 15:12:29;terry.reedy;set;stage: test needed -> patch review
+1703178;2014-10-10 09:42:17;lambertv;set;files:  + build_ext.diff
+1703178;2014-10-10 09:42:17;lambertv;set;nosy:  + lambertv
+1703178;2014-10-10 09:42:17;lambertv;set;messages:  + msg228973
+1703178;2014-10-10 09:42:17;lambertv;set;keywords:  + patch
+1703178;2014-03-12 10:18:04;eric.araujo;set;components:  - Distutils2
+1703178;2014-03-12 10:18:04;eric.araujo;set;versions:  + Python 3.4, - 3rd party, Python 3.2
+1703178;2012-04-22 05:53:02;eric.araujo;set;status: pending -> open
+1703178;2012-04-22 05:53:02;eric.araujo;set;assignee: tarek -> eric.araujo
+1703178;2012-04-22 05:53:02;eric.araujo;set;components:  + Distutils2, - Build
+1703178;2012-04-22 05:53:02;eric.araujo;set;versions:  + 3rd party, Python 3.2, Python 3.3
+1703178;2012-04-22 05:53:02;eric.araujo;set;keywords:  + easy
+1703178;2012-04-22 05:53:02;eric.araujo;set;nosy:  + eric.araujo, alexis
+1703178;2012-04-22 05:53:02;eric.araujo;set;messages:  + msg158948
+1703178;2010-08-05 19:10:23;terry.reedy;set;status: open -> pending
+1703178;2010-08-05 19:10:23;terry.reedy;set;versions:  + Python 2.7, - Python 2.6, Python 3.0
+1703178;2010-08-05 19:10:23;terry.reedy;set;nosy:  + terry.reedy
+1703178;2010-08-05 19:10:23;terry.reedy;set;messages:  + msg113017
+1703178;2009-03-30 16:49:31;ajaksu2;set;nosy:  + tarek
+1703178;2009-03-30 16:49:31;ajaksu2;set;versions:  + Python 2.6, Python 3.0, - Python 2.4
+1703178;2009-03-30 16:49:31;ajaksu2;set;assignee: tarek
+1703178;2009-03-30 16:49:31;ajaksu2;set;components:  + Build, Distutils, - None
+1703178;2009-03-30 16:49:31;ajaksu2;set;type: behavior
+1703178;2009-03-30 16:49:31;ajaksu2;set;stage: test needed
+1703178;2007-04-18 19:03:11;mschatte;create;-
+26224;2016-09-28 23:24:46;berker.peksag;set;type: behavior
+26224;2016-09-28 23:24:38;berker.peksag;set;status: open -> closed
+26224;2016-09-28 23:24:38;berker.peksag;set;nosy:  + berker.peksag
+26224;2016-09-28 23:24:38;berker.peksag;set;messages:  + msg277674
+26224;2016-09-28 23:24:38;berker.peksag;set;resolution: out of date
+26224;2016-09-28 23:24:38;berker.peksag;set;stage: patch review -> resolved
+26224;2016-02-15 21:03:37;martin.panter;set;stage: patch review
+26224;2016-01-27 23:02:48;Udi Oron;create;-
+28316;2016-09-30 06:40:19;benjamin.peterson;set;status: open -> closed
+28316;2016-09-30 06:40:19;benjamin.peterson;set;nosy:  + benjamin.peterson
+28316;2016-09-30 06:40:19;benjamin.peterson;set;messages:  + msg277742
+28316;2016-09-30 06:40:19;benjamin.peterson;set;resolution: not a bug
+28316;2016-09-30 06:31:55;Sabine.maennel@gmail.com;create;-
+28289;2016-09-29 17:48:08;python-dev;set;nosy:  + python-dev
+28289;2016-09-29 17:48:08;python-dev;set;messages:  + msg277710
+28289;2016-09-28 04:54:25;serhiy.storchaka;set;status: open -> closed
+28289;2016-09-28 04:54:25;serhiy.storchaka;set;versions:  - Python 3.5, Python 3.6
+28289;2016-09-28 04:54:25;serhiy.storchaka;set;messages:  + msg277581
+28289;2016-09-28 04:54:25;serhiy.storchaka;set;resolution: fixed
+28289;2016-09-28 04:54:25;serhiy.storchaka;set;stage: patch review -> resolved
+28289;2016-09-27 21:58:34;brett.cannon;set;messages:  + msg277555
+28289;2016-09-27 21:58:02;brett.cannon;set;assignee: serhiy.storchaka
+28289;2016-09-27 21:58:02;brett.cannon;set;messages:  + msg277554
+28289;2016-09-27 20:47:12;serhiy.storchaka;set;files:  + importerror-reset-attributes.patch
+28289;2016-09-27 20:47:12;serhiy.storchaka;set;keywords:  + patch
+28289;2016-09-27 20:47:12;serhiy.storchaka;set;messages:  + msg277547
+28289;2016-09-27 20:47:12;serhiy.storchaka;set;stage: patch review
+28289;2016-09-27 18:31:02;brett.cannon;set;priority: normal -> low
+28289;2016-09-27 18:31:02;brett.cannon;set;messages:  + msg277537
+28289;2016-09-27 18:02:52;serhiy.storchaka;create;-
+23701;2016-09-28 22:51:43;berker.peksag;set;status: open -> closed
+23701;2016-09-28 22:51:43;berker.peksag;set;nosy:  + berker.peksag
+23701;2016-09-28 22:51:43;berker.peksag;set;messages:  + msg277672
+23701;2016-09-28 22:51:43;berker.peksag;set;resolution: out of date
+23701;2016-09-28 22:51:43;berker.peksag;set;stage: patch review -> resolved
+23701;2015-04-19 19:22:28;Claudiu.Popa;set;stage: patch review
+23701;2015-03-18 18:33:26;paul.moore;set;nosy:  + paul.moore
+23701;2015-03-18 16:51:10;Claudiu.Popa;create;-
+22969;2016-09-28 22:45:37;berker.peksag;set;status: open -> closed
+22969;2016-09-28 22:45:37;berker.peksag;set;nosy:  + berker.peksag
+22969;2016-09-28 22:45:37;berker.peksag;set;messages:  + msg277671
+22969;2016-09-28 22:45:37;berker.peksag;set;resolution: out of date
+22969;2016-09-28 22:45:37;berker.peksag;set;stage: resolved
+22969;2014-12-01 23:21:08;pitrou;set;nosy:  + haypo
+22969;2014-11-30 23:27:42;KHH;create;-
+21903;2016-09-28 21:33:54;eryksun;set;messages:  + msg277664
+21903;2016-09-28 14:13:22;berker.peksag;set;status: open -> closed
+21903;2016-09-28 14:13:22;berker.peksag;set;versions:  + Python 3.5, Python 3.6, Python 3.7, - Python 3.3, Python 3.4
+21903;2016-09-28 14:13:22;berker.peksag;set;nosy:  + berker.peksag, eryksun
+21903;2016-09-28 14:13:22;berker.peksag;set;messages:  + msg277624
+21903;2016-09-28 14:13:22;berker.peksag;set;resolution: fixed
+21903;2016-09-28 14:13:22;berker.peksag;set;stage: resolved
+21903;2016-09-28 14:06:25;python-dev;set;nosy:  + python-dev
+21903;2016-09-28 14:06:25;python-dev;set;messages:  + msg277621
+21903;2014-07-02 10:50:32;Dan.O'Donovan;set;files:  + ctypes.txt.diff
+21903;2014-07-02 10:50:32;Dan.O'Donovan;set;keywords:  + patch
+21903;2014-07-02 10:50:32;Dan.O'Donovan;set;messages:  + msg222093
+21903;2014-07-02 09:18:39;Dan.O'Donovan;set;messages:  + msg222090
+21903;2014-07-02 09:18:39;Dan.O'Donovan;set;components:  + Tests
+21903;2014-07-02 09:14:49;Dan.O'Donovan;create;-
+27322;2016-09-28 17:35:21;Rosuav;set;messages:  + msg277649
+27322;2016-09-28 17:12:26;haypo;set;messages:  + msg277648
+27322;2016-09-28 16:57:52;berker.peksag;set;status: open -> closed
+27322;2016-09-28 16:57:52;berker.peksag;set;resolution: fixed
+27322;2016-09-28 16:57:52;berker.peksag;set;messages:  + msg277647
+27322;2016-09-28 16:57:52;berker.peksag;set;stage: patch review -> resolved
+27322;2016-09-28 14:45:31;berker.peksag;set;versions:  - Python 3.5
+27322;2016-09-28 14:37:26;python-dev;set;messages:  + msg277632
+27322;2016-09-27 23:19:14;berker.peksag;set;files:  + issue27322_v3.diff
+27322;2016-09-27 23:19:14;berker.peksag;set;messages:  + msg277563
+27322;2016-09-27 07:26:43;Rosuav;set;messages:  + msg277499
+27322;2016-09-27 07:01:39;haypo;set;messages:  + msg277496
+27322;2016-09-13 18:04:50;brett.cannon;set;messages:  + msg276312
+27322;2016-09-13 07:55:03;haypo;set;messages:  + msg276207
+27322;2016-09-13 05:59:08;berker.peksag;set;files:  + issue27322_v2.diff
+27322;2016-09-13 05:59:08;berker.peksag;set;versions:  + Python 3.5, Python 3.7
+27322;2016-09-13 05:59:08;berker.peksag;set;nosy:  + berker.peksag
+27322;2016-09-13 05:59:08;berker.peksag;set;messages:  + msg276181
+27322;2016-09-13 05:59:08;berker.peksag;set;stage: needs patch -> patch review
+27322;2016-09-12 16:26:34;Chi Hsuan Yen;set;nosy:  + Chi Hsuan Yen
+27322;2016-09-12 13:22:40;python-dev;set;messages:  + msg276041
+27322;2016-09-12 13:11:06;christian.heimes;set;messages:  + msg276037
+27322;2016-09-12 13:08:54;python-dev;set;nosy:  + python-dev
+27322;2016-09-12 13:08:54;python-dev;set;messages:  + msg276036
+27322;2016-09-12 13:07:15;Rosuav;set;messages:  + msg276035
+27322;2016-09-12 13:03:33;christian.heimes;set;nosy:  + christian.heimes
+27322;2016-09-12 13:03:33;christian.heimes;set;messages:  + msg276034
+27322;2016-09-07 07:00:19;Rosuav;set;files:  + compile-nearly-all.patch
+27322;2016-09-07 07:00:19;Rosuav;set;nosy:  + Rosuav
+27322;2016-09-07 07:00:19;Rosuav;set;messages:  + msg274771
+27322;2016-09-07 07:00:19;Rosuav;set;keywords:  + patch
+27322;2016-06-15 07:20:19;xdegaye;create;-
+28305;2016-09-28 19:31:13;r.david.murray;set;messages:  + msg277656
+28305;2016-09-28 19:29:26;ronbarak;set;messages:  + msg277655
+28305;2016-09-28 19:13:23;r.david.murray;set;nosy:  + r.david.murray
+28305;2016-09-28 19:13:23;r.david.murray;set;messages:  + msg277654
+28305;2016-09-28 19:09:06;ronbarak;set;messages:  + msg277653
+28305;2016-09-28 19:04:52;r.david.murray;set;status: open -> closed
+28305;2016-09-28 19:04:52;r.david.murray;set;superseder: Cygwin does not provide siginfo_t.si_band
+28305;2016-09-28 19:04:52;r.david.murray;set;resolution: duplicate
+28305;2016-09-28 19:04:52;r.david.murray;set;stage: resolved
+28305;2016-09-28 18:59:08;christian.heimes;set;nosy:  + christian.heimes
+28305;2016-09-28 18:59:08;christian.heimes;set;messages:  + msg277651
+28305;2016-09-28 18:31:22;ronbarak;create;-
+28148;2016-09-28 21:41:54;belopolsky;set;status: open -> closed
+28148;2016-09-28 21:41:54;belopolsky;set;resolution: fixed
+28148;2016-09-28 21:41:54;belopolsky;set;stage: commit review -> resolved
+28148;2016-09-28 21:40:35;python-dev;set;messages:  + msg277665
+28148;2016-09-28 21:32:41;python-dev;set;nosy:  + python-dev
+28148;2016-09-28 21:32:41;python-dev;set;messages:  + msg277663
+28148;2016-09-14 21:30:53;pitrou;set;nosy:  - pitrou
+28148;2016-09-14 21:29:28;belopolsky;set;messages:  + msg276490
+28148;2016-09-14 21:18:02;EdSchouten;set;messages:  + msg276489
+28148;2016-09-14 21:12:49;belopolsky;set;messages:  + msg276488
+28148;2016-09-14 21:06:11;belopolsky;set;keywords:  + patch
+28148;2016-09-14 21:06:11;belopolsky;set;stage: patch review -> commit review
+28148;2016-09-14 21:06:11;belopolsky;set;messages:  + msg276487
+28148;2016-09-14 21:06:11;belopolsky;set;versions:  + Python 3.7
+28148;2016-09-14 20:27:57;EdSchouten;set;files:  + patch-pytime-localtime-gmtime
+28148;2016-09-14 20:27:57;EdSchouten;set;messages:  + msg276484
+28148;2016-09-14 19:25:01;belopolsky;set;messages:  + msg276480
+28148;2016-09-14 19:21:42;EdSchouten;set;messages:  + msg276479
+28148;2016-09-14 18:56:34;belopolsky;set;messages:  + msg276475
+28148;2016-09-14 18:41:57;EdSchouten;set;messages:  + msg276474
+28148;2016-09-14 18:30:34;belopolsky;set;messages:  + msg276472
+28148;2016-09-14 18:27:13;belopolsky;set;nosy:  + lemburg, tim.peters, belopolsky, pitrou, haypo, akira
+28148;2016-09-14 18:27:13;belopolsky;set;messages:  + msg276471
+28148;2016-09-14 18:27:13;belopolsky;set;assignee: belopolsky
+28148;2016-09-14 18:27:13;belopolsky;set;type: behavior
+28148;2016-09-14 18:27:13;belopolsky;set;stage: patch review
+28148;2016-09-14 16:45:15;EdSchouten;set;title: Also stop using localtime() in timemodule -> [Patch] Also stop using localtime() in timemodule
+28148;2016-09-14 12:35:29;EdSchouten;create;-
+8844;2016-09-28 19:35:55;gregory.p.smith;set;messages:  + msg277658
+8844;2016-09-28 16:13:13;haypo;set;messages:  + msg277640
+8844;2016-02-23 13:56:56;superbobry;set;nosy:  + superbobry
+8844;2016-02-23 13:56:56;superbobry;set;messages:  + msg260732
+8844;2013-11-07 12:58:04;Yuri.Bochkarev;set;nosy:  + Yuri.Bochkarev
+8844;2011-02-16 15:40:23;pitrou;set;status: open -> closed
+8844;2011-02-16 15:40:23;pitrou;set;nosy:  gregory.p.smith, pitrou, haypo, jyasskin, rnk, hobb0001
+8844;2011-02-16 15:40:23;pitrou;set;resolution: fixed
+8844;2011-01-07 21:54:50;pitrou;set;nosy:  gregory.p.smith, pitrou, haypo, jyasskin, rnk, hobb0001
+8844;2011-01-07 21:54:50;pitrou;set;messages:  + msg125719
+8844;2011-01-07 21:45:50;haypo;set;status: closed -> open
+8844;2011-01-07 21:45:50;haypo;set;nosy:  + haypo
+8844;2011-01-07 21:45:50;haypo;set;messages:  + msg125715
+8844;2011-01-07 21:45:50;haypo;set;resolution: fixed -> (no value)
+8844;2010-12-15 22:59:55;pitrou;set;status: open -> closed
+8844;2010-12-15 22:59:55;pitrou;set;nosy:  gregory.p.smith, pitrou, jyasskin, rnk, hobb0001
+8844;2010-12-15 22:59:55;pitrou;set;messages:  + msg124088
+8844;2010-12-15 22:59:55;pitrou;set;resolution: accepted -> fixed
+8844;2010-12-15 22:59:55;pitrou;set;stage: commit review -> resolved
+8844;2010-12-15 20:38:39;pitrou;set;nosy:  gregory.p.smith, pitrou, jyasskin, rnk, hobb0001
+8844;2010-12-15 20:38:39;pitrou;set;dependencies:  - Make gettimeofday available in time module
+8844;2010-12-15 20:38:33;pitrou;set;assignee: pitrou -> 
+8844;2010-12-15 20:38:33;pitrou;set;nosy:  gregory.p.smith, pitrou, jyasskin, rnk, hobb0001
+8844;2010-08-15 12:52:00;pitrou;set;messages:  + msg113953
+8844;2010-08-15 04:51:41;rnk;set;files:  + lock-interrupt-v4.diff
+8844;2010-08-15 04:51:41;rnk;set;messages:  + msg113941
+8844;2010-08-13 15:26:02;pitrou;set;messages:  + msg113786
+8844;2010-07-18 15:04:11;rnk;set;dependencies:  + Make gettimeofday available in time module
+8844;2010-07-18 15:04:11;rnk;set;messages:  + msg110653
+8844;2010-07-13 04:12:08;rnk;set;messages:  + msg110156
+8844;2010-07-12 16:45:52;gregory.p.smith;set;messages:  + msg110110
+8844;2010-07-12 16:08:42;pitrou;set;messages:  + msg110105
+8844;2010-07-11 13:36:01;pitrou;set;assignee: pitrou
+8844;2010-07-11 13:36:01;pitrou;set;resolution: accepted
+8844;2010-07-11 13:36:01;pitrou;set;messages:  + msg110007
+8844;2010-07-11 13:36:01;pitrou;set;stage: commit review
+8844;2010-07-10 20:57:58;rnk;set;messages:  + msg109935
+8844;2010-07-10 20:32:07;rnk;set;files:  + lock-interrupt.diff
+8844;2010-07-10 20:32:07;rnk;set;messages:  + msg109932
+8844;2010-07-10 19:43:55;pitrou;set;messages:  + msg109915
+8844;2010-07-10 17:28:17;rnk;set;files:  + lock-interrupt.diff
+8844;2010-07-10 17:28:17;rnk;set;messages:  + msg109898
+8844;2010-07-10 16:13:52;pitrou;set;messages:  + msg109884
+8844;2010-07-10 16:13:52;pitrou;set;versions:  - Python 3.1
+8844;2010-07-10 15:47:46;rnk;set;files:  + lock-interrupt.diff
+8844;2010-07-10 15:47:46;rnk;set;keywords:  + patch
+8844;2010-07-10 15:47:46;rnk;set;messages:  + msg109883
+8844;2010-05-29 11:44:42;pitrou;set;messages:  + msg106715
+8844;2010-05-29 02:59:28;rnk;set;messages:  + msg106705
+8844;2010-05-28 19:16:20;pitrou;set;messages:  + msg106685
+8844;2010-05-28 17:40:38;pitrou;set;nosy:  + gregory.p.smith, rnk, jyasskin, pitrou
+8844;2010-05-28 17:40:38;pitrou;set;messages:  + msg106680
+8844;2010-05-28 17:40:38;pitrou;set;versions:  + Python 3.2
+8844;2010-05-28 16:48:10;hobb0001;create;-
