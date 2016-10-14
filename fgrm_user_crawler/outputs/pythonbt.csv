@@ -1,0 +1,11 @@
+bug_id;action_date;action_user;action_arg;action_desc
+28380;2016-10-06 21:35:57;gregory.p.smith;status: open -> closed;set
+28380;2016-10-06 21:35:57;gregory.p.smith;versions:  - Python 3.3, Python 3.4, Python 3.5;set
+28380;2016-10-06 21:35:57;gregory.p.smith;messages:  + msg278214;set
+28380;2016-10-06 21:35:57;gregory.p.smith;resolution: fixed;set
+28380;2016-10-06 21:35:57;gregory.p.smith;stage: commit review;set
+28380;2016-10-06 21:32:29;python-dev;nosy:  + python-dev;set
+28380;2016-10-06 21:32:29;python-dev;messages:  + msg278213;set
+28380;2016-10-06 21:10:16;gregory.p.smith;assignee: gregory.p.smith;set
+28380;2016-10-06 21:10:16;gregory.p.smith;nosy:  + gregory.p.smith;set
+28380;2016-10-06 20:13:19;Yannick Brehon;-;create

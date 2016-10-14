@@ -4,10 +4,22 @@
 import scrapy
 import csv
 import sys
+import logging
+from scrapy.utils.log import configure_logging
 # import ipdb
 from w3lib.html import remove_tags
 reload(sys)
 sys.setdefaultencoding('utf8')
+
+
+class PythonBTBugHistory(scrapy.Item):
+
+    """Docstring for PythonBTBugHistory. """
+    bug_id = scrapy.Field()
+    action_date = scrapy.Field()
+    action_user = scrapy.Field()
+    action_desc = scrapy.Field()
+    action_arg = scrapy.Field()
 
 
 class PythonBTSpyder(scrapy.Spider):
@@ -16,15 +28,18 @@ class PythonBTSpyder(scrapy.Spider):
     # Variávies em overrride
     name = "pythonbt"
     start_urls = []
-
     XPATH_BASE_USER = '//*[@id="content"]/div[2]/table[3]/tr[#]/td[2]/text()'
     XPATH_BASE_DATE = '//*[@id="content"]/div[2]/table[3]/tr[#]/td[1]/text()'
     XPATH_BASE_ACTION = '//*[@id="content"]/div[2]/table[3]/tr[#]/td[3]/text()'
-    # XPATH_BASE_ARGS = '//*[@id="content"]/div[2]/table[3]/tr[#]/th[4]'
     XPATH_BASE_ARGS = '//*[@id="content"]/div[2]/table[3]/tr[#]/td[4]/node()'
     PYTHONBT_URL = 'https://bugs.python.org/issue'
     CSV_FILE_PATH = '../fgrm_user_crawler/inputs/pythonbt-issues.csv'
-    LOAD_LIMIT = 100
+    LOAD_LIMIT = -1
+    configure_logging(install_root_handler=False)
+    logging.basicConfig(filename='./log/' + name + '-' + 'log.txt',
+                        format='%(levelname)s: %(message)s',
+                        level=logging.INFO
+                        )
 
     def load_bug_id_from_csv(self):
         """TODO: Docstring for load_bug_id_from_csv.
@@ -64,15 +79,13 @@ class PythonBTSpyder(scrapy.Spider):
 
     def parse(self, response):
         # ipdb.set_trace()
-        filename = './outputs/pythobt-data.csv'
         index = 3
-        row = [None] * 5
-        data = list()
         while True:
             xpath_user = self.XPATH_BASE_USER.replace('#', str(index), 1)
             xpath_date = self.XPATH_BASE_DATE.replace('#', str(index), 1)
             xpath_action = self.XPATH_BASE_ACTION.replace('#', str(index), 1)
             xpath_args = self.XPATH_BASE_ARGS.replace('#', str(index), 1)
+
             user_selector = response.xpath(xpath_user)
             date_selector = response.xpath(xpath_date)
             args_selector = response.xpath(xpath_args)
@@ -80,18 +93,21 @@ class PythonBTSpyder(scrapy.Spider):
             url = response.url
             # buscado a posição inicial onde começa o número do bug
             start_bug_id = url.find('issue') + len('issue')
+            # coletando o número o bug
             bug_id = url[start_bug_id:]
             if len(user_selector) == 1 and len(date_selector) == 1:
+                bug_history_item = PythonBTBugHistory()
                 user_name = user_selector.extract_first()
                 event_date = date_selector.extract_first()
+                event_date = str(event_date).replace('\xc2\xa0', ' ')
                 action = action_selector.extract_first()
-                row[0] = bug_id
-                row[1] = event_date
-                row[2] = user_name
-                row[3] = action
                 if action == 'create':
-                    row[4] = '-'
-                    data.append(list(row))
+                    bug_history_item["bug_id"] = bug_id
+                    bug_history_item["action_date"] = event_date
+                    bug_history_item["action_user"] = user_name
+                    bug_history_item["action_desc"] = action
+                    bug_history_item["action_arg"] = '-'
+                    yield bug_history_item
                 elif len(args_selector) >= 1:
                     # extraídos os dados do seletor
                     args_data = args_selector.extract()
@@ -102,17 +118,17 @@ class PythonBTSpyder(scrapy.Spider):
                     # quebrando a string de argumentos em uma lista
                     args_list = args_str.split('<br>')
                     for args in args_list:
-                        if args or action == 'create':
-                            row[4] = remove_tags(args)
-                            data.append(list(row))
+                        if args:
+                            bug_history_item["bug_id"] = bug_id
+                            bug_history_item["action_date"] = event_date
+                            bug_history_item["action_user"] = user_name
+                            bug_history_item["action_desc"] = action
+                            bug_history_item["action_arg"] = remove_tags(args)
+                            yield bug_history_item
                     # ipdb.set_trace()
                 else:
                     break
                 index = index + 1
             else:
                 break
-        with open(filename, 'ab') as csv_file:
-            csv_writer = csv.writer(csv_file, delimiter=';')
-            csv_writer.writerows(data)
-            del data[:]
-        self.log('Everything is gonna be alright')
+        self.logger.info('Fim da recuperação para a issue {0}'.format(bug_id))
