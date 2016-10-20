@@ -1,4 +1,6 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
 import scrapy
 from scrapy.http import FormRequest
 from loginform import fill_login_form
@@ -55,18 +57,23 @@ class LoginUserPythonBtSpider(scrapy.Spider):
             self.logger.info('Valid login')
             index = 2
             while True:
+                # Recuperando o nome do usuário
                 xpath_base = self.XPATH_USERNAME
                 xpath = xpath_base.replace('#', str(index), 1)
                 user_name_sel = response.xpath(xpath)
+                # Recuperando o nome de usuário do github
                 xpath_base = self.XPATH_GITHUB
                 xpath = xpath_base.replace('#', str(index), 1)
                 user_github_sel = response.xpath(xpath)
+                # Recuperando o nome real do usuário
                 xpath_base = self.XPATH_REALNAME
                 xpath = xpath_base.replace('#', str(index), 1)
                 user_realname = response.xpath(xpath)
+                # Recuperando o e-mail do usuário
                 xpath_base = self.XPATH_USERMAIL
                 xpath = xpath_base.replace('#', str(index), 1)
                 user_mail_sel = response.xpath(xpath)
+                # Criando uma instância de um item de usuário
                 user_item = UserPythonBTItem()
                 if (len(user_name_sel) >= 1):
                     user_item['project'] = 'Python'
