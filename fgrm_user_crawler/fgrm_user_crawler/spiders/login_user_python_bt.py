@@ -9,7 +9,7 @@ from scrapy.utils.log import configure_logging
 import sys
 import requests
 import json
-# import time
+import oss_crawler_config as cfg
 # import ipdb as pdb
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -32,8 +32,6 @@ class LoginUserPythonBtSpider(scrapy.Spider):
     is_logged = False
     allowed_domains = ["bugs.python.org"]
     start_urls = ['http://bugs.python.org/user']
-    login_user = "vclementino"
-    login_pass = "GwC7Mj4FQf8P"
     BASE_URL = 'http://bugs.python.org/'
     XPATH_USERNAME = "//table[@class='list']/tr[#]/td[1]/a/text()"
     XPATH_GITHUB = "//table[@class='list']/tr[#]/td[2]/text()"
@@ -53,9 +51,8 @@ class LoginUserPythonBtSpider(scrapy.Spider):
         :returns: TODO
 
         """
-        TOKEK = 'ab0ae0bd4cd245a4c4adc072332faef9998590fb'
         GITHUB_API_BASE = 'https://api.github.com/users/'
-        headers = {'Authorization': 'token %s' % TOKEK}
+        headers = {'Authorization': 'token %s' % cfg.github['oauth_token']}
 
         user_url = GITHUB_API_BASE + github_user
         r = requests.get(user_url, headers=headers)
@@ -70,8 +67,8 @@ class LoginUserPythonBtSpider(scrapy.Spider):
         if not self.is_logged:
             args, url, method = fill_login_form(response.url,
                                                 response.body,
-                                                self.login_user,
-                                                self.login_pass)
+                                                cfg.pythonbt['username'],
+                                                cfg.pythonbt['password'])
             return FormRequest(url,
                                method=method,
                                formdata=args,
